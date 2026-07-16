@@ -1,0 +1,16 @@
+{
+  "name": "auto-depot-russellville-feed",
+  "version": "1.0.0",
+  "description": "Meta Commerce Manager inventory feed builder for Auto Depot Russellville",
+  "main": "scraper.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node scraper.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
