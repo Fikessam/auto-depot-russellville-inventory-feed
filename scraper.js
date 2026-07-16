@@ -56,11 +56,7 @@ const LOCATIONS = [
     siteUrl: 'https://autodepotrussellville.com',
     phone: '256-331-3333',
     address: { street: '16180 Highway 43', city: 'Russellville', state: 'AL', zip: '35653', country: 'US' },
-    // TODO: confirm this is Auto Depot Russellville's real Meta Pixel ID.
-    // Zach mentioned on the meeting call that a pixel "may already be built
-    // in" but this was never actually verified — check Events Manager
-    // before this feed goes live in Commerce Manager.
-    pixelId: 'TODO_CONFIRM_PIXEL_ID_RUSSELLVILLE',
+    pixelId: '455178129177209',
   },
 ];
 
@@ -302,7 +298,7 @@ function writeLocationOutputs(location, vehicles) {
   const items = feedVehicles.map(vehicleToFeedItem).join('\n');
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <!-- ${location.label} — Meta Commerce Manager automotive inventory feed -->
-<!-- Pixel ID: ${location.pixelId} (confirm this is correct before going live) -->
+<!-- Pixel ID: ${location.pixelId} — confirmed via Events Manager -->
 <listings>
   <title>${escapeXml(location.label)}</title>
 ${items}
