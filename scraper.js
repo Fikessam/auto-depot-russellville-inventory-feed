@@ -238,7 +238,7 @@ function vehicleToFeedItem(v) {
   const bodyStyle = normalizeBodyStyle(v);
   const imageBlocks = v.images.map((img) => `    <image>\n      <url>${escapeXml(img)}</url>\n    </image>`).join('\n');
   return `  <listing>
-    <vehicle_id>${escapeXml(v.vin || v.stock_number)}</vehicle_id>
+    <vehicle_id>${escapeXml(v.stock_number || v.vin)}</vehicle_id>
     <description>${escapeXml(buildDescription(v))}</description>
     <url>${escapeXml(v.url)}</url>
     <title>${escapeXml(v.title)}</title>

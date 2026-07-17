@@ -1,0 +1,8 @@
+
+=== Auto Depot Russellville ===
+Fetching inventory: Auto Depot Russellville (https://autodepotrussellville.com/service/inventory/website)
+  9 raw record(s) returned
+  Wrote 9 vehicle(s) -> /Users/sam/Scrappers/Auto Depot-R/docs/inventory-russellville.json and 9 vehicle(s) -> /Users/sam/Scrappers/Auto Depot-R/docs/feed-russellville.xml
+  /Users/sam/Scrappers/Auto Depot-R/docs/feed-russellville.xml passed XML validation
+[main 0b07bcc] Automated feed update 2026-07-16 14:49
+ 1 file changed, 1 insertion(+), 1 deletion(-)
