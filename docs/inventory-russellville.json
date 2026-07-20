@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:14:45.156Z",
+  "generated_at": "2026-07-20T18:57:42.389Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 10,
   "vehicles": [
@@ -123,47 +123,6 @@
       "dealer_phone": "256-331-3333"
     },
     {
-      "vin": "5FNRL5H29EB038112",
-      "stock_number": "13263",
-      "condition": "used",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "trim": "LX",
-      "title": "2014 Honda Odyssey LX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13263/Russellville-AL/2014-Honda-Odyssey",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.5l V6 MPI Sohc Vtec 3.5",
-      "mileage": 186758,
-      "fuel_type": "Gas",
-      "body_style_raw": "Wagon",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 12995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13263/a388d359c6ed2cc2c56a6301ea3e36d8421a5ade",
-        "https://autodepotrussellville.com/service/picture/25003/13263/77f01b524ec52d0158b7d1ab3d114fef444e9a03",
-        "https://autodepotrussellville.com/service/picture/25003/13263/27679dd3dfd05e157bd91da25bee2e31bb9bc0a5",
-        "https://autodepotrussellville.com/service/picture/25003/13263/355e9a98505f97f134b766f39b8c8c1fe1771fe5",
-        "https://autodepotrussellville.com/service/picture/25003/13263/c43e5e7ad8628eec11f9b28cd0ee1db43ad52d5e",
-        "https://autodepotrussellville.com/service/picture/25003/13263/dbafd4160ddc99a4366db0ba24a93e09075b729e",
-        "https://autodepotrussellville.com/service/picture/25003/13263/78bde9743b17bc46d8764729af4fdb0685e2d927",
-        "https://autodepotrussellville.com/service/picture/25003/13263/90bd879bbd65d1867a6c5a7e8f56b692e80d6b2d",
-        "https://autodepotrussellville.com/service/picture/25003/13263/1cb5dbc0269797ca9f47cab19bdaeb97c67b340a",
-        "https://autodepotrussellville.com/service/picture/25003/13263/fd1ff820326dbdebe22463a61415ef4db76fc5ab"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333"
-    },
-    {
       "vin": "5FNRL5H60EB108244",
       "stock_number": "13358",
       "condition": "used",
@@ -194,6 +153,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13358/bca2e2b03676b3fce8877ebfc13583402c583682",
         "https://autodepotrussellville.com/service/picture/25003/13358/08ff9832d5fea485cfd46288c2aa7dfa3ef2a596",
         "https://autodepotrussellville.com/service/picture/25003/13358/d620fd2af958c004e3616597b3dec77edb1d9bb4"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333"
+    },
+    {
+      "vin": "5FNRL5H29EB038112",
+      "stock_number": "13263",
+      "condition": "used",
+      "year": 2014,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "LX",
+      "title": "2014 Honda Odyssey LX",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13263/Russellville-AL/2014-Honda-Odyssey",
+      "exterior_color": "Silver",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "3.5l V6 MPI Sohc Vtec 3.5",
+      "mileage": 186758,
+      "fuel_type": "Gas",
+      "body_style_raw": "Wagon",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 12995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13263/a388d359c6ed2cc2c56a6301ea3e36d8421a5ade",
+        "https://autodepotrussellville.com/service/picture/25003/13263/77f01b524ec52d0158b7d1ab3d114fef444e9a03",
+        "https://autodepotrussellville.com/service/picture/25003/13263/27679dd3dfd05e157bd91da25bee2e31bb9bc0a5",
+        "https://autodepotrussellville.com/service/picture/25003/13263/355e9a98505f97f134b766f39b8c8c1fe1771fe5",
+        "https://autodepotrussellville.com/service/picture/25003/13263/c43e5e7ad8628eec11f9b28cd0ee1db43ad52d5e",
+        "https://autodepotrussellville.com/service/picture/25003/13263/dbafd4160ddc99a4366db0ba24a93e09075b729e",
+        "https://autodepotrussellville.com/service/picture/25003/13263/78bde9743b17bc46d8764729af4fdb0685e2d927",
+        "https://autodepotrussellville.com/service/picture/25003/13263/90bd879bbd65d1867a6c5a7e8f56b692e80d6b2d",
+        "https://autodepotrussellville.com/service/picture/25003/13263/1cb5dbc0269797ca9f47cab19bdaeb97c67b340a",
+        "https://autodepotrussellville.com/service/picture/25003/13263/fd1ff820326dbdebe22463a61415ef4db76fc5ab"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -285,46 +285,6 @@
       "dealer_phone": "256-331-3333"
     },
     {
-      "vin": "1N4BL3AP3FC182920",
-      "stock_number": "13361",
-      "condition": "used",
-      "year": 2015,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "SL",
-      "title": "2015 Nissan Altima SL",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13361/Russellville-AL/2015-Nissan-Altima",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.5l V6 Smpi Dohc Cvtcs 3",
-      "mileage": 138661,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d Sedan 3.5",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13361/52af2cb817244ce6dc323ddc7406de9b2792d1b7",
-        "https://autodepotrussellville.com/service/picture/25003/13361/da856562e2fcbe1f8b90c454bb3601faa313c797",
-        "https://autodepotrussellville.com/service/picture/25003/13361/ccd024af695d6e3e45599bf0fe92770ff06a84d6",
-        "https://autodepotrussellville.com/service/picture/25003/13361/aa32b86d51f51c35fff89307a5cdf273f06570e0",
-        "https://autodepotrussellville.com/service/picture/25003/13361/23686756408d331f2d47b6d42dd281fa69c205f0",
-        "https://autodepotrussellville.com/service/picture/25003/13361/3afe76c8f6658ada2316a9a2d9cd2ffbfb839d68",
-        "https://autodepotrussellville.com/service/picture/25003/13361/3e00d5b017d1bdac53fb720955681efc48e9aa71",
-        "https://autodepotrussellville.com/service/picture/25003/13361/d744e557befd6440c5ed1e2182479e129bbfe813",
-        "https://autodepotrussellville.com/service/picture/25003/13361/9f7522fb367fde618c83115f5705017654a4f705"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333"
-    },
-    {
       "vin": "1N4AL3AP4GC228963",
       "stock_number": "13292A",
       "condition": "used",
@@ -354,6 +314,46 @@
         "https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d",
         "https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333",
         "https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333"
+    },
+    {
+      "vin": "5N1AT2MT8EC818394",
+      "stock_number": "13347",
+      "condition": "used",
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "SL",
+      "title": "2014 Nissan Rogue SL",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13347/Russellville-AL/2014-Nissan-Rogue",
+      "exterior_color": "Red",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.5l I-4 MPI Dohc 2.5l",
+      "mileage": 154837,
+      "fuel_type": "Gas",
+      "body_style_raw": "4d SUV FWD",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 12995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13347/7ceb94fd7e19669c0f4b4d02d121152881dfdc18",
+        "https://autodepotrussellville.com/service/picture/25003/13347/24e0d29794e1b8749588b1b27b56ff9e0e5f52ac",
+        "https://autodepotrussellville.com/service/picture/25003/13347/cbe1d64d70d7b2a56f32407ab254b58c1744957b",
+        "https://autodepotrussellville.com/service/picture/25003/13347/8235ed1b6495d47f948c92ed634c3e27431acf8a",
+        "https://autodepotrussellville.com/service/picture/25003/13347/87492e5eb950edd5dbdbc9c307bb4e6449f871e0",
+        "https://autodepotrussellville.com/service/picture/25003/13347/6958c1aad4a5ebc0d7ccc49afbf54df9207cc854",
+        "https://autodepotrussellville.com/service/picture/25003/13347/46a1cba67b0bf543ac92d07be638b62fbc09b6eb",
+        "https://autodepotrussellville.com/service/picture/25003/13347/94cbe8b401eb809b919318b228c52ab744d06719",
+        "https://autodepotrussellville.com/service/picture/25003/13347/0818af0724a8278e664b819c639e16bfafcf1baa"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
