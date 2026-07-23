@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T13:09:03.365Z",
+  "generated_at": "2026-07-23T15:03:16.446Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 12,
+  "total_vehicles": 11,
   "vehicles": [
     {
       "vin": "19XFB2F50CE018058",
@@ -73,45 +73,6 @@
         "https://autodepotrussellville.com/service/picture/25003/13337/8307f02713834bdba021fd33a1ab9b61f5282d4a",
         "https://autodepotrussellville.com/service/picture/25003/13337/b18ecfacd66dca073483fcfdecb93faa66c3af14",
         "https://autodepotrussellville.com/service/picture/25003/13337/24c8f6df0cd5aa8071d8592d1f03039a06ace524"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333"
-    },
-    {
-      "vin": "5J6YH18737L016540",
-      "stock_number": "13306",
-      "condition": "used",
-      "year": 2007,
-      "make": "Honda",
-      "model": "Element",
-      "trim": "EX",
-      "title": "2007 Honda Element EX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13306/Russellville-AL/2007-Honda-Element",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.4l I-4 MPI Dohc 2.4l",
-      "mileage": 200556,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d SUV FWD",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 9995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13306/ffb495cbfad64dde4353e44c17634d1fb8603ae0",
-        "https://autodepotrussellville.com/service/picture/25003/13306/d9365e331a60ef8a24ecb8c94f71667d67ffdeb1",
-        "https://autodepotrussellville.com/service/picture/25003/13306/c130f1f975654781e1a4b1cf433faf2b87bd624c",
-        "https://autodepotrussellville.com/service/picture/25003/13306/b3a329d2f047b8966f8c08cfac265d977039a182",
-        "https://autodepotrussellville.com/service/picture/25003/13306/c744468f1e9e1ebadadac8d4a44fe861e2e089df",
-        "https://autodepotrussellville.com/service/picture/25003/13306/5e32e96cbab40f8a579c9619abae5d0ed1ea690e",
-        "https://autodepotrussellville.com/service/picture/25003/13306/35d71be33068186914e8765134cb9e850cf3fcc5",
-        "https://autodepotrussellville.com/service/picture/25003/13306/a836b3acac80928a9d1705d8048b024927cb92a0"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",

@@ -116,59 +116,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13306</vehicle_id>
-    <description>200,556 miles, Blue exterior, 2.4l I-4 MPI Dohc 2.4l — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13306/Russellville-AL/2007-Honda-Element</url>
-    <title>2007 Honda Element EX</title>
-    <body_style>SUV</body_style>
-    <price>9995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Element</model>
-    <year>2007</year>
-    <vin>5J6YH18737L016540</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>200556</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Blue</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/ffb495cbfad64dde4353e44c17634d1fb8603ae0</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/d9365e331a60ef8a24ecb8c94f71667d67ffdeb1</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/c130f1f975654781e1a4b1cf433faf2b87bd624c</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/b3a329d2f047b8966f8c08cfac265d977039a182</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/c744468f1e9e1ebadadac8d4a44fe861e2e089df</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/5e32e96cbab40f8a579c9619abae5d0ed1ea690e</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/35d71be33068186914e8765134cb9e850cf3fcc5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13306/a836b3acac80928a9d1705d8048b024927cb92a0</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13266</vehicle_id>
     <description>181,651 miles, Grey exterior, 3.5l V6 MPI Sohc Vtec 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13266/Russellville-AL/2014-Honda-Odyssey</url>
