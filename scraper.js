@@ -70,6 +70,28 @@ const MIN_EXPECTED_VEHICLES = {
 };
 
 // ============================================================================
+// Sold-vehicle tracking (ported from the Fikes scraper)
+// --------------------------------------------------------------------------
+// Meta's Commerce Catalog does NOT automatically remove a vehicle just
+// because it disappears from a feed-managed catalog's next fetch — and
+// manual deletion in Commerce Manager is blocked for feed-managed catalogs
+// (Meta forces edits through the feed). Left alone, a sold vehicle can keep
+// showing up in dynamic ads and send clicks to a dead/wrong page.
+//
+// So: when a vehicle drops out of the live API response, we keep emitting
+// it here with availability=SOLD for a few runs (long enough for Meta's
+// scheduled sync to pick up the status change), then stop referencing it —
+// Meta retains the last-known SOLD status indefinitely once set, so there's
+// no need to keep emitting it forever.
+const SOLD_GRACE_RUNS = 3;
+function soldTrackingPath(location) {
+  return path.join(OUTPUT_DIR, `sold-tracking-${location.key}.json`);
+}
+function vehicleKey(v) {
+  return v.stock_number || v.vin;
+}
+
+// ============================================================================
 // Fetch + field mapping
 // ============================================================================
 async function fetchLocationInventory(location) {
@@ -183,6 +205,7 @@ function mapToVehicle(raw, location) {
     images,
     dealer_address: location.address,
     dealer_phone: location.phone,
+    availability: 'AVAILABLE',
   };
 }
 
@@ -256,6 +279,7 @@ function vehicleToFeedItem(v) {
     <year>${escapeXml(v.year)}</year>
     <vin>${escapeXml(v.vin)}</vin>
     <state_of_vehicle>${v.condition === 'new' ? 'NEW' : 'USED'}</state_of_vehicle>
+    <availability>${v.availability === 'SOLD' ? 'SOLD' : 'AVAILABLE'}</availability>
     <mileage>
       <unit>MI</unit>
       <value>${v.mileage != null ? v.mileage : 0}</value>
@@ -267,6 +291,71 @@ function vehicleToFeedItem(v) {
     <vehicle_type>car_truck</vehicle_type>
 ${imageBlocks}
   </listing>`;
+}
+
+function loadPreviousVehicles(location) {
+  try {
+    const prev = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, `inventory-${location.key}.json`), 'utf8'));
+    return Array.isArray(prev.vehicles) ? prev.vehicles : [];
+  } catch (err) {
+    return []; // no previous run (first run, or file missing/corrupt) — nothing to diff against
+  }
+}
+
+function loadSoldTracking(location) {
+  try {
+    return JSON.parse(fs.readFileSync(soldTrackingPath(location), 'utf8'));
+  } catch (err) {
+    return {};
+  }
+}
+
+function saveSoldTracking(location, tracking) {
+  fs.writeFileSync(soldTrackingPath(location), JSON.stringify(tracking, null, 2));
+}
+
+// Compares this run's scraped vehicles against last run's, marks
+// newly-missing vehicles as sold (tracked for SOLD_GRACE_RUNS more runs),
+// clears tracking for anything that reappears, and expires tracking once
+// the grace period passes. Returns { vehiclesForOutput, updatedTracking } —
+// vehiclesForOutput is this run's live vehicles plus any still-in-grace
+// sold vehicles (with availability=SOLD), ready to write/feed as-is.
+function reconcileSoldVehicles(location, currentVehicles) {
+  const previousVehicles = loadPreviousVehicles(location);
+  const tracking = loadSoldTracking(location);
+
+  const currentKeys = new Set(currentVehicles.map(vehicleKey));
+  const updatedTracking = {};
+  const soldVehiclesForOutput = [];
+
+  // 1) Anything already being tracked as sold: if it's back, drop tracking
+  //    (treat as a data hiccup, not a real re-sale); otherwise burn one run
+  //    off its grace period, and expire it once the grace period runs out.
+  for (const [key, entry] of Object.entries(tracking)) {
+    if (currentKeys.has(key)) continue; // reappeared — let the live record win, tracking cleared
+    if (entry.runsRemaining <= 0) continue; // grace period already expired — stop emitting, drop tracking
+    soldVehiclesForOutput.push(entry.vehicle); // this run counts as one of its emissions
+    const runsRemaining = entry.runsRemaining - 1;
+    if (runsRemaining > 0) {
+      updatedTracking[key] = { runsRemaining, vehicle: entry.vehicle };
+    } // else: this was its last emission — let it expire, don't add back to tracking
+  }
+
+  // 2) Anything that was AVAILABLE last run but isn't tracked yet and isn't
+  //    in this run's results is newly sold — start its grace period.
+  const previousAvailable = previousVehicles.filter((v) => v.availability !== 'SOLD');
+  for (const prevVehicle of previousAvailable) {
+    const key = vehicleKey(prevVehicle);
+    if (currentKeys.has(key) || updatedTracking[key]) continue; // still here, or already handled above
+    const soldSnapshot = { ...prevVehicle, availability: 'SOLD' };
+    updatedTracking[key] = { runsRemaining: SOLD_GRACE_RUNS - 1, vehicle: soldSnapshot };
+    soldVehiclesForOutput.push(soldSnapshot);
+  }
+
+  return {
+    vehiclesForOutput: [...currentVehicles, ...soldVehiclesForOutput],
+    updatedTracking,
+  };
 }
 
 function writeLocationOutputs(location, vehicles) {
@@ -344,8 +433,15 @@ async function main() {
       );
       continue;
     }
-    const feedPath = writeLocationOutputs(location, vehicles);
+    const { vehiclesForOutput, updatedTracking } = reconcileSoldVehicles(location, vehicles);
+    const soldCount = vehiclesForOutput.length - vehicles.length;
+    if (soldCount > 0) {
+      console.log(`  ${soldCount} vehicle(s) still in SOLD grace period, emitted with availability=SOLD`);
+    }
+
+    const feedPath = writeLocationOutputs(location, vehiclesForOutput);
     validateFeedXml(feedPath);
+    saveSoldTracking(location, updatedTracking);
   }
 }
 
@@ -363,4 +459,6 @@ module.exports = {
   normalizeBodyStyle,
   vehicleToFeedItem,
   buildDescription,
+  vehicleKey,
+  reconcileSoldVehicles,
 };
