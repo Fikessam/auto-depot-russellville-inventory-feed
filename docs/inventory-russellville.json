@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:07:35.949Z",
+  "generated_at": "2026-07-27T14:04:38.528Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 9,
   "vehicles": [
@@ -41,7 +41,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "19XFB2F50CE018058",
@@ -81,7 +82,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "JHMZF1D44CS003354",
@@ -121,7 +123,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "5FNRL5H60EB108244",
@@ -162,7 +165,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "5FNRL5H29EB038112",
@@ -203,7 +207,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "KMHCT4AE7GU138798",
@@ -243,7 +248,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "1N4AL3AP4GC228963",
@@ -283,7 +289,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "1N4AL3AP4HC201425",
@@ -323,7 +330,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     },
     {
       "vin": "5N1AT2MT8EC818394",
@@ -363,7 +371,8 @@
         "zip": "35653",
         "country": "US"
       },
-      "dealer_phone": "256-331-3333"
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
     }
   ]
 }
