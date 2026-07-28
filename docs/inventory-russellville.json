@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:04:38.528Z",
+  "generated_at": "2026-07-28T13:58:22.055Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 9,
   "vehicles": [
@@ -211,47 +211,6 @@
       "availability": "AVAILABLE"
     },
     {
-      "vin": "KMHCT4AE7GU138798",
-      "stock_number": "13345",
-      "condition": "used",
-      "year": 2016,
-      "make": "Hyundai",
-      "model": "Accent",
-      "trim": "SE",
-      "title": "2016 Hyundai Accent SE",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13345/Russellville-AL/2016-Hyundai-Accent",
-      "exterior_color": "Red",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.6l I-4 DI Dohc Cvvt 1.6",
-      "mileage": 100124,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 12995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13345/401ac97d29be51dc36a7c5d74d1f1e8df8206ea3",
-        "https://autodepotrussellville.com/service/picture/25003/13345/7915536c1b1924efe7f6797e96517569574a6f18",
-        "https://autodepotrussellville.com/service/picture/25003/13345/e6c753556ac6d79a9751c7797dfd4f1c306cb55e",
-        "https://autodepotrussellville.com/service/picture/25003/13345/075494da91bb8aa89a6e921310039e274affccfa",
-        "https://autodepotrussellville.com/service/picture/25003/13345/996b83c712ade7b00e28344f73c3f5df03830129",
-        "https://autodepotrussellville.com/service/picture/25003/13345/ade6246519840de86c23c05880847f70ee9d3a27",
-        "https://autodepotrussellville.com/service/picture/25003/13345/6f0e4f2801b1e30fe957c0358a55f80b4186b7c9",
-        "https://autodepotrussellville.com/service/picture/25003/13345/6a36d04b1868adf311a5223c1fee96d86e4f0853",
-        "https://autodepotrussellville.com/service/picture/25003/13345/66eea23be5b1ca150c5c72ee33d5bedea379a32b"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
-    {
       "vin": "1N4AL3AP4GC228963",
       "stock_number": "13292A",
       "condition": "used",
@@ -334,6 +293,47 @@
       "availability": "AVAILABLE"
     },
     {
+      "vin": "KMHCT4AE7GU138798",
+      "stock_number": "13345",
+      "condition": "used",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Accent",
+      "trim": "SE",
+      "title": "2016 Hyundai Accent SE",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13345/Russellville-AL/2016-Hyundai-Accent",
+      "exterior_color": "Red",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.6l I-4 DI Dohc Cvvt 1.6",
+      "mileage": 100124,
+      "fuel_type": "Gas",
+      "body_style_raw": "4d Sedan",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 12995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13345/401ac97d29be51dc36a7c5d74d1f1e8df8206ea3",
+        "https://autodepotrussellville.com/service/picture/25003/13345/7915536c1b1924efe7f6797e96517569574a6f18",
+        "https://autodepotrussellville.com/service/picture/25003/13345/e6c753556ac6d79a9751c7797dfd4f1c306cb55e",
+        "https://autodepotrussellville.com/service/picture/25003/13345/075494da91bb8aa89a6e921310039e274affccfa",
+        "https://autodepotrussellville.com/service/picture/25003/13345/996b83c712ade7b00e28344f73c3f5df03830129",
+        "https://autodepotrussellville.com/service/picture/25003/13345/ade6246519840de86c23c05880847f70ee9d3a27",
+        "https://autodepotrussellville.com/service/picture/25003/13345/6f0e4f2801b1e30fe957c0358a55f80b4186b7c9",
+        "https://autodepotrussellville.com/service/picture/25003/13345/6a36d04b1868adf311a5223c1fee96d86e4f0853",
+        "https://autodepotrussellville.com/service/picture/25003/13345/66eea23be5b1ca150c5c72ee33d5bedea379a32b"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
+    },
+    {
       "vin": "5N1AT2MT8EC818394",
       "stock_number": "13347",
       "condition": "used",
@@ -372,7 +372,7 @@
         "country": "US"
       },
       "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
+      "availability": "SOLD"
     }
   ]
 }
