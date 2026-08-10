@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T18:39:58.808Z",
+  "generated_at": "2026-08-10T13:15:10.162Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 14,
+  "total_vehicles": 13,
   "vehicles": [
     {
       "vin": "3FA6P0RU1KR119048",
@@ -526,47 +526,6 @@
         "https://autodepotrussellville.com/service/picture/25003/13306/5e32e96cbab40f8a579c9619abae5d0ed1ea690e",
         "https://autodepotrussellville.com/service/picture/25003/13306/35d71be33068186914e8765134cb9e850cf3fcc5",
         "https://autodepotrussellville.com/service/picture/25003/13306/a836b3acac80928a9d1705d8048b024927cb92a0"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
-    },
-    {
-      "vin": "19XFB2F58DE001803",
-      "stock_number": "13365",
-      "condition": "used",
-      "year": 2013,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX",
-      "title": "2013 Honda Civic LX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13365/Russellville-AL/2013-Honda-Civic",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.8l I-4 MPI Sohc 1.8l",
-      "mileage": 137084,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13365/fcc0d6aaa097ee457ac9fc2a4f472a55642b0ff4",
-        "https://autodepotrussellville.com/service/picture/25003/13365/bf0ed60d49a41b089da0065436a1fa59f9602429",
-        "https://autodepotrussellville.com/service/picture/25003/13365/0ba49c2ae95a3138da64c44fb83847713fd08f8a",
-        "https://autodepotrussellville.com/service/picture/25003/13365/4ae842c4a5fef41537297c4a6700801bb522e6d8",
-        "https://autodepotrussellville.com/service/picture/25003/13365/d753257edd533a7a01d1f9e703517b01189749da",
-        "https://autodepotrussellville.com/service/picture/25003/13365/b162a9e511315a656c163c7813f9f726b42e2fb8",
-        "https://autodepotrussellville.com/service/picture/25003/13365/59d98789d1a7c081e1da5638c63ce2e363485d39",
-        "https://autodepotrussellville.com/service/picture/25003/13365/26d9741d048b45f314fde78596527fe9562103dc",
-        "https://autodepotrussellville.com/service/picture/25003/13365/cd88f3be832e29ccec42b820eaeb0e7a66a63193"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
