@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:15:10.162Z",
+  "generated_at": "2026-08-11T15:13:52.761Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 13,
   "vehicles": [
@@ -45,47 +45,6 @@
       "availability": "AVAILABLE"
     },
     {
-      "vin": "JHMFB4F37CS003479",
-      "stock_number": "13337",
-      "condition": "used",
-      "year": 2012,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "Hybrid-L",
-      "title": "2012 Honda Civic Hybrid-L",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13337/Russellville-AL/2012-Honda-Civic",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.5l I-4 MPI Sohc Hybrid ",
-      "mileage": 140855,
-      "fuel_type": "Hybrid",
-      "body_style_raw": "4d Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 12995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13337/84f423cc12c23e2d1df2e9acc70bbf5b059da53e",
-        "https://autodepotrussellville.com/service/picture/25003/13337/a0fdd019cd3dd6219d1a09edffa608772675b09d",
-        "https://autodepotrussellville.com/service/picture/25003/13337/c7424b66f6bbb0c5c94fe4080df7fcf3a4ee2d44",
-        "https://autodepotrussellville.com/service/picture/25003/13337/696c597edcd98c245a68094a84bd00549648eab4",
-        "https://autodepotrussellville.com/service/picture/25003/13337/56799fe6a4bb83242463ac5de22dd45478fda51e",
-        "https://autodepotrussellville.com/service/picture/25003/13337/c8a7030b7a358c68912636e696d316a72472e548",
-        "https://autodepotrussellville.com/service/picture/25003/13337/8307f02713834bdba021fd33a1ab9b61f5282d4a",
-        "https://autodepotrussellville.com/service/picture/25003/13337/b18ecfacd66dca073483fcfdecb93faa66c3af14",
-        "https://autodepotrussellville.com/service/picture/25003/13337/24c8f6df0cd5aa8071d8592d1f03039a06ace524"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
-    {
       "vin": "19XFB2F50CE018058",
       "stock_number": "13277",
       "condition": "used",
@@ -115,6 +74,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13277/615b652f5d38f938449c3695059eca077a8baa69",
         "https://autodepotrussellville.com/service/picture/25003/13277/2eb6ab6de5cf2bc49a409ac6edc303fee2bded90",
         "https://autodepotrussellville.com/service/picture/25003/13277/6cee5918ca43c15eec8cf0f352cccd90ff18a336"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "JHMFB4F37CS003479",
+      "stock_number": "13337",
+      "condition": "used",
+      "year": 2012,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "Hybrid-L",
+      "title": "2012 Honda Civic Hybrid-L",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13337/Russellville-AL/2012-Honda-Civic",
+      "exterior_color": "Silver",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.5l I-4 MPI Sohc Hybrid ",
+      "mileage": 140855,
+      "fuel_type": "Hybrid",
+      "body_style_raw": "4d Sedan",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 12995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13337/84f423cc12c23e2d1df2e9acc70bbf5b059da53e",
+        "https://autodepotrussellville.com/service/picture/25003/13337/a0fdd019cd3dd6219d1a09edffa608772675b09d",
+        "https://autodepotrussellville.com/service/picture/25003/13337/c7424b66f6bbb0c5c94fe4080df7fcf3a4ee2d44",
+        "https://autodepotrussellville.com/service/picture/25003/13337/696c597edcd98c245a68094a84bd00549648eab4",
+        "https://autodepotrussellville.com/service/picture/25003/13337/56799fe6a4bb83242463ac5de22dd45478fda51e",
+        "https://autodepotrussellville.com/service/picture/25003/13337/c8a7030b7a358c68912636e696d316a72472e548",
+        "https://autodepotrussellville.com/service/picture/25003/13337/8307f02713834bdba021fd33a1ab9b61f5282d4a",
+        "https://autodepotrussellville.com/service/picture/25003/13337/b18ecfacd66dca073483fcfdecb93faa66c3af14",
+        "https://autodepotrussellville.com/service/picture/25003/13337/24c8f6df0cd5aa8071d8592d1f03039a06ace524"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -281,6 +281,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13358/bca2e2b03676b3fce8877ebfc13583402c583682",
         "https://autodepotrussellville.com/service/picture/25003/13358/08ff9832d5fea485cfd46288c2aa7dfa3ef2a596",
         "https://autodepotrussellville.com/service/picture/25003/13358/d620fd2af958c004e3616597b3dec77edb1d9bb4"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "KMHDH4AE7EU111846",
+      "stock_number": "13410",
+      "condition": "used",
+      "year": 2014,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "Limited",
+      "title": "2014 Hyundai Elantra Limited",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13410/Russellville-AL/2014-Hyundai-Elantra",
+      "exterior_color": "Silver",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.8l I-4 MPI Dohc 1.8l",
+      "mileage": 108879,
+      "fuel_type": "Gas",
+      "body_style_raw": "4d Sedan",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 13995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13410/3e6a18a7160f0f000930d471c51871065fe7dd3e",
+        "https://autodepotrussellville.com/service/picture/25003/13410/8539c08a493c138e4636c1c78bf9f50be702fabd",
+        "https://autodepotrussellville.com/service/picture/25003/13410/3c3d7e8c5aa0f0303dad60cc821b5ff3c9c9583a",
+        "https://autodepotrussellville.com/service/picture/25003/13410/8da5f66071e86669d98ad61388dec4418543721d",
+        "https://autodepotrussellville.com/service/picture/25003/13410/6ad6f2870e45b8071591cfdf9b1421efef35e497",
+        "https://autodepotrussellville.com/service/picture/25003/13410/1fe575f4225cd1eed3d4ff13be995b5d7ed410f2",
+        "https://autodepotrussellville.com/service/picture/25003/13410/87bc2e237fccbc3a689ab9ea7bd311bcc3c8329a",
+        "https://autodepotrussellville.com/service/picture/25003/13410/06acad7629e9eb0bdc840c28443524662d06fcef",
+        "https://autodepotrussellville.com/service/picture/25003/13410/930d6f6ca603a1e7f51c04d49b60da4fc0ab2216"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -496,46 +537,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "5J6YH18737L016540",
-      "stock_number": "13306",
-      "condition": "used",
-      "year": 2007,
-      "make": "Honda",
-      "model": "Element",
-      "trim": "EX",
-      "title": "2007 Honda Element EX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13306/Russellville-AL/2007-Honda-Element",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.4l I-4 MPI Dohc 2.4l",
-      "mileage": 200560,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d SUV FWD",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 9995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13306/ffb495cbfad64dde4353e44c17634d1fb8603ae0",
-        "https://autodepotrussellville.com/service/picture/25003/13306/d9365e331a60ef8a24ecb8c94f71667d67ffdeb1",
-        "https://autodepotrussellville.com/service/picture/25003/13306/c130f1f975654781e1a4b1cf433faf2b87bd624c",
-        "https://autodepotrussellville.com/service/picture/25003/13306/b3a329d2f047b8966f8c08cfac265d977039a182",
-        "https://autodepotrussellville.com/service/picture/25003/13306/c744468f1e9e1ebadadac8d4a44fe861e2e089df",
-        "https://autodepotrussellville.com/service/picture/25003/13306/5e32e96cbab40f8a579c9619abae5d0ed1ea690e",
-        "https://autodepotrussellville.com/service/picture/25003/13306/35d71be33068186914e8765134cb9e850cf3fcc5",
-        "https://autodepotrussellville.com/service/picture/25003/13306/a836b3acac80928a9d1705d8048b024927cb92a0"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     }
   ]
 }
