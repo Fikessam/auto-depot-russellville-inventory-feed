@@ -4,6 +4,63 @@
 <listings>
   <title>Auto Depot Russellville</title>
   <listing>
+    <vehicle_id>13400</vehicle_id>
+    <description>149,575 miles, Black exterior, 2.0l I-4 Smpi Dohc Hybrid — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13400/Russellville-AL/2019-Ford-Fusion</url>
+    <title>2019 Ford Fusion SE Hybrid</title>
+    <body_style>SEDAN</body_style>
+    <price>14995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Ford</make>
+    <model>Fusion</model>
+    <year>2019</year>
+    <vin>3FA6P0LUXKR117985</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>149575</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Black</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/adfbaa02386eec19a7d1090e7dd4c339354a1053</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/d7ce3181340cc757b5d4f1df1be997d29718ecde</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/9e8743cd0d5a44e1b2de798739e70c1dc0d6e6d1</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/ffbdd91d7962ec186e7dbde9a870c20035ba6157</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/5157c567634d45e1651a4304ff374977c5fb7ea8</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/b811927b069f859596ff064f538ed138637baf11</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/aa84726b5e83a22241adc769dbe9973838479e64</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/70a3382ce41d6e3a2ca82c6ef587e4f47a7e7894</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13400/650ef83dfafd3d9ef67f9b1352a691dd090524b4</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>13371</vehicle_id>
     <description>168,342 miles, Blue exterior, 2.0l I-4 Smpi Dohc Hybrid — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13371/Russellville-AL/2019-Ford-Fusion</url>
@@ -289,66 +346,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13263</vehicle_id>
-    <description>186,758 miles, Silver exterior, 3.5l V6 MPI Sohc Vtec 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13263/Russellville-AL/2014-Honda-Odyssey</url>
-    <title>2014 Honda Odyssey LX</title>
-    <body_style>VAN</body_style>
-    <price>12995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Odyssey</model>
-    <year>2014</year>
-    <vin>5FNRL5H29EB038112</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>186758</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Silver</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/a388d359c6ed2cc2c56a6301ea3e36d8421a5ade</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/77f01b524ec52d0158b7d1ab3d114fef444e9a03</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/27679dd3dfd05e157bd91da25bee2e31bb9bc0a5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/355e9a98505f97f134b766f39b8c8c1fe1771fe5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/c43e5e7ad8628eec11f9b28cd0ee1db43ad52d5e</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/dbafd4160ddc99a4366db0ba24a93e09075b729e</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/78bde9743b17bc46d8764729af4fdb0685e2d927</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/90bd879bbd65d1867a6c5a7e8f56b692e80d6b2d</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/1cb5dbc0269797ca9f47cab19bdaeb97c67b340a</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13263/fd1ff820326dbdebe22463a61415ef4db76fc5ab</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13358</vehicle_id>
     <description>183,380 miles, White exterior, 3.5l V6 MPI Sohc Vtec 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13358/Russellville-AL/2014-Honda-Odyssey</url>
@@ -406,6 +403,66 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13358/d620fd2af958c004e3616597b3dec77edb1d9bb4</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13263</vehicle_id>
+    <description>186,758 miles, Silver exterior, 3.5l V6 MPI Sohc Vtec 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13263/Russellville-AL/2014-Honda-Odyssey</url>
+    <title>2014 Honda Odyssey LX</title>
+    <body_style>VAN</body_style>
+    <price>12995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Odyssey</model>
+    <year>2014</year>
+    <vin>5FNRL5H29EB038112</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>186758</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Silver</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/a388d359c6ed2cc2c56a6301ea3e36d8421a5ade</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/77f01b524ec52d0158b7d1ab3d114fef444e9a03</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/27679dd3dfd05e157bd91da25bee2e31bb9bc0a5</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/355e9a98505f97f134b766f39b8c8c1fe1771fe5</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/c43e5e7ad8628eec11f9b28cd0ee1db43ad52d5e</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/dbafd4160ddc99a4366db0ba24a93e09075b729e</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/78bde9743b17bc46d8764729af4fdb0685e2d927</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/90bd879bbd65d1867a6c5a7e8f56b692e80d6b2d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/1cb5dbc0269797ca9f47cab19bdaeb97c67b340a</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13263/fd1ff820326dbdebe22463a61415ef4db76fc5ab</url>
     </image>
   </listing>
   <listing>
@@ -634,6 +691,63 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13372/13ae26ca3ad908594dacdfc9d3b11b278d584cd2</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13387</vehicle_id>
+    <description>140,297 miles, Grey exterior, 2.5l I-4 MPI Dohc 2.5l — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13387/Russellville-AL/2015-Nissan-Rogue</url>
+    <title>2015 Nissan Rogue SL</title>
+    <body_style>SUV</body_style>
+    <price>13995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Nissan</make>
+    <model>Rogue</model>
+    <year>2015</year>
+    <vin>5N1AT2MT3FC808793</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>140297</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Grey</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/aefd17b773f4d7f69e868d3c5880aac955cde00f</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/82b82469524e05274ba15a55e1c494cfadece4f2</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/708f6572bcf5ec88c1316b8e5dbb90d2f36b9ca3</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/1670c0d798aa0f2f9fd547fa8e3af0a6b70df7d7</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/99a5366059ef229f01aaf9ac1ecdc206b5b3504b</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/888645e75bae58b16eb2c6e288a701aeb1d47b17</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/a1bddd05b69d783df790135ce3d08917c606fe55</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/f6c57ba01a62c3c8446782f1dfe111038645c545</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13387/b0a49686ff0e7458f2255bf0decd8e1cf70656f5</url>
     </image>
   </listing>
   <listing>
