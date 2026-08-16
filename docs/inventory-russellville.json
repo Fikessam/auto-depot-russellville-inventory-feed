@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T14:14:18.627Z",
+  "generated_at": "2026-08-16T16:58:11.138Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 18,
+  "total_vehicles": 17,
   "vehicles": [
     {
       "vin": "3FA6P0RU1KR119048",
@@ -660,47 +660,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "1N4AL3AP0FN308411",
-      "stock_number": "13364",
-      "condition": "used",
-      "year": 2015,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "S",
-      "title": "2015 Nissan Altima S",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13364/Russellville-AL/2015-Nissan-Altima",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.5l I-4 Smpi Dohc Cvtcs ",
-      "mileage": 151061,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d Sedan 2.5",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13364/bc6d90c327499ae49f9563fca5cb10782f579842",
-        "https://autodepotrussellville.com/service/picture/25003/13364/92acc6e7aa3508f2638acce5fef75002f6e22c42",
-        "https://autodepotrussellville.com/service/picture/25003/13364/0770013ae57a91ef47eb1614847fffa20ed3461a",
-        "https://autodepotrussellville.com/service/picture/25003/13364/4f20a95e9eb89f4efe8bd031c45981773c9de5f2",
-        "https://autodepotrussellville.com/service/picture/25003/13364/c409bead054dc250eed1a5d6888a10204ea9c5ba",
-        "https://autodepotrussellville.com/service/picture/25003/13364/4c75efff931b6f87b2665c3a951cb53648c67f79",
-        "https://autodepotrussellville.com/service/picture/25003/13364/4d2ef3ac50e3f75d7a66cd15e3df92f4dc6d8176",
-        "https://autodepotrussellville.com/service/picture/25003/13364/3a9f752d35f96badffe3fc642e940f08164877a9",
-        "https://autodepotrussellville.com/service/picture/25003/13364/7216ce21d8d996b8bb03460dc9782479407f5cc2"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     },
     {
       "vin": "1N4AL3AP1HC122701",
