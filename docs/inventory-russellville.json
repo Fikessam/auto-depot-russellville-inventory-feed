@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T13:03:16.397Z",
+  "generated_at": "2026-08-25T14:23:58.666Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 14,
+  "total_vehicles": 12,
   "vehicles": [
     {
       "vin": "3FA6P0LU6JR171962",
@@ -454,88 +454,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "JHMZF1D63BS000249",
-      "stock_number": "13382",
-      "condition": "used",
-      "year": 2011,
-      "make": "Honda",
-      "model": "CR-Z",
-      "trim": "EX",
-      "title": "2011 Honda CR-Z EX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13382/Russellville-AL/2011-Honda-CR-Z",
-      "exterior_color": "Grey",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.5l I-4 MPI Sohc Vtec 1.",
-      "mileage": 129238,
-      "fuel_type": "Gas",
-      "body_style_raw": "2d Coupe",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 11995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13382/b2057dbfa01e2b4deb4561c42813ed1098bdd44d",
-        "https://autodepotrussellville.com/service/picture/25003/13382/7af873f51772e91c3cf5405f60c10e8bf8f697fb",
-        "https://autodepotrussellville.com/service/picture/25003/13382/b899a4c1d9992a2af34e0a4a0f7c4a2e9dd1ccc3",
-        "https://autodepotrussellville.com/service/picture/25003/13382/6eaadf2cbb97213db3538c7da3e2aef2950b8caa",
-        "https://autodepotrussellville.com/service/picture/25003/13382/79c7b2d1e7dd0dae51b476cae22a9ca8b5c1ec0f",
-        "https://autodepotrussellville.com/service/picture/25003/13382/8f9dc2fe9c47148be31e21d4a4d82316d8c32d58",
-        "https://autodepotrussellville.com/service/picture/25003/13382/77628b6180e42450892ceaaf118ca8acf672b4f5",
-        "https://autodepotrussellville.com/service/picture/25003/13382/b98832f844faaaf065559e06894e666152714cf1",
-        "https://autodepotrussellville.com/service/picture/25003/13382/0cc52243b8929e2660fdade1c11ef5c5ef872585"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
-    },
-    {
-      "vin": "5N1AZ2MG8HN130406",
-      "stock_number": "13414",
-      "condition": "used",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Murano",
-      "trim": "S",
-      "title": "2017 Nissan Murano S",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13414/Russellville-AL/2017-Nissan-Murano",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.5l V6 Smpi Dohc Cvtcs 3",
-      "mileage": 140978,
-      "fuel_type": "Gas",
-      "body_style_raw": "4d SUV FWD",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13414/f4dcbccbffdc700969f43d7bbbfa5e8e75b21d89",
-        "https://autodepotrussellville.com/service/picture/25003/13414/1a50cf53f2a809c7391396dcd5495fc0ba935a26",
-        "https://autodepotrussellville.com/service/picture/25003/13414/04754e268e567456480db20ecb95b6dffd29a9a8",
-        "https://autodepotrussellville.com/service/picture/25003/13414/f2b862bd9fe98e64350dd3fbd71bfbe1f167c295",
-        "https://autodepotrussellville.com/service/picture/25003/13414/504a014a1d1e9dde9917cd207d3094b97a7a1faa",
-        "https://autodepotrussellville.com/service/picture/25003/13414/be0c6d5377ddc5715da4ccad3ae8cc326236eab3",
-        "https://autodepotrussellville.com/service/picture/25003/13414/3e4554ace00c4c1ece9e7b1c99e1c8540be98adc",
-        "https://autodepotrussellville.com/service/picture/25003/13414/521c83789c916ab39e759140f684a6687664f388",
-        "https://autodepotrussellville.com/service/picture/25003/13414/93d6e11ef8dc09bf8a293f219007d44a16e25894"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     },
     {
       "vin": "1N4AL3AP3HC196671",
