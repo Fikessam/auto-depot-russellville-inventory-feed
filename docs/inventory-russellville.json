@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T13:25:02.790Z",
+  "generated_at": "2026-09-17T23:22:09.417Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 8,
+  "total_vehicles": 6,
   "vehicles": [
     {
       "vin": "3GNBABFW5BS604966",
@@ -248,89 +248,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "19XFC2F56HE021020",
-      "stock_number": "13415",
-      "condition": "used",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX",
-      "title": "2017 Honda Civic LX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13415/Russellville-AL/2017-Honda-Civic",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.0L I-4 MPI DOHC 2.0L",
-      "mileage": 153888,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13415/8d41d797de7371f073396a29014b425b10002b4e",
-        "https://autodepotrussellville.com/service/picture/25003/13415/76d77ac590bf1e93d6abe2b2bba66c9161a4543d",
-        "https://autodepotrussellville.com/service/picture/25003/13415/e9fe07ecf8e8bc5922ecaccfa57ac30f8831c8f1",
-        "https://autodepotrussellville.com/service/picture/25003/13415/56c33fc07d92aacabc0dc66f718774c7f7cb24c8",
-        "https://autodepotrussellville.com/service/picture/25003/13415/289af4e3449c971075c2fc0b63088f5b1c682e96",
-        "https://autodepotrussellville.com/service/picture/25003/13415/93e3b58e9854866640e083308f3783261909d4a6",
-        "https://autodepotrussellville.com/service/picture/25003/13415/48b599bc7b7548f462541c35c2952239a193b8fc",
-        "https://autodepotrussellville.com/service/picture/25003/13415/5a411d634c5d7713499829eae60450e292788d87",
-        "https://autodepotrussellville.com/service/picture/25003/13415/e4fe14ae243b60355cdb3c9c89f1c12b864d47b6"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
-    },
-    {
-      "vin": "KNDMB5C15H6237458",
-      "stock_number": "13436",
-      "condition": "used",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Sedona",
-      "trim": "LX",
-      "title": "2017 Kia Sedona LX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13436/Russellville-AL/2017-Kia-Sedona",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.3L V6 DI DOHC 3.3L",
-      "mileage": 123625,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D Wagon",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13436/5dbf6513b314c95fdfdca5ed82675266a9755fbe",
-        "https://autodepotrussellville.com/service/picture/25003/13436/e99dfed2df0941dd82a075a1e5d50041e799b9e4",
-        "https://autodepotrussellville.com/service/picture/25003/13436/24f58e2e8aa040ac23ae48a2952bb27cc9000f07",
-        "https://autodepotrussellville.com/service/picture/25003/13436/ddc183a1eabeea93b09c7ab8bf8636250a466aee",
-        "https://autodepotrussellville.com/service/picture/25003/13436/73b87b4fa689500e157229026fa17af6a5d70442",
-        "https://autodepotrussellville.com/service/picture/25003/13436/be4d96faa639f3e8238a84582934e65e3196218b",
-        "https://autodepotrussellville.com/service/picture/25003/13436/b4fa0f76cce1c5538e688be64229c80154e18fcb",
-        "https://autodepotrussellville.com/service/picture/25003/13436/533fb885b4c7d647fc87aacd13a300e21412de5a",
-        "https://autodepotrussellville.com/service/picture/25003/13436/6b0d1dc06be9b11d195d97b20b9132ac614a92c6",
-        "https://autodepotrussellville.com/service/picture/25003/13436/dc3394e423f49227e4277796720d346f0d60cdc1"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     }
   ]
 }
