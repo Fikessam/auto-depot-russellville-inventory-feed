@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:41:20.906Z",
+  "generated_at": "2026-09-25T12:42:54.946Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 9,
   "vehicles": [
@@ -74,47 +74,6 @@
         "https://autodepotrussellville.com/service/picture/25003/13435/09c9de628710fe8d98e23e17dccc58032dcf46fb",
         "https://autodepotrussellville.com/service/picture/25003/13435/fb37a4e0ec23589cf4f8c3a451683151cee56c27",
         "https://autodepotrussellville.com/service/picture/25003/13435/3fb5e5e8f072b2de25c498edcc0cb847e1c9355f"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
-    {
-      "vin": "5J6TF3H33CL006156",
-      "stock_number": "13441",
-      "condition": "used",
-      "year": 2012,
-      "make": "Honda",
-      "model": "Crosstour",
-      "trim": "EX",
-      "title": "2012 Honda Crosstour EX",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13441/Russellville-AL/2012-Honda-Crosstour",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.4L I-4 MPI DOHC 2.4L",
-      "mileage": 161466,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D SUV FWD 4cyl",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 12995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13441/7d55d56f857f7567af8046deb254e75bde3296a7",
-        "https://autodepotrussellville.com/service/picture/25003/13441/abee88f261e02c95aa0228932836382a85a96621",
-        "https://autodepotrussellville.com/service/picture/25003/13441/4117401b89d64a5b50004b86fd30cff8b005683a",
-        "https://autodepotrussellville.com/service/picture/25003/13441/9e23466e4d43df76675b7214756b592b68c831f1",
-        "https://autodepotrussellville.com/service/picture/25003/13441/1459701ac092c7ffd64d922275821c0b05abf2cf",
-        "https://autodepotrussellville.com/service/picture/25003/13441/dbefce7aadfcf61a9d135bb7e9acd5f97108397b",
-        "https://autodepotrussellville.com/service/picture/25003/13441/3f6683d6ceb74c1bb5575e4521432509d6be2003",
-        "https://autodepotrussellville.com/service/picture/25003/13441/e67fea5d79b8eed62c8d032c316d6fce8f88bf47",
-        "https://autodepotrussellville.com/service/picture/25003/13441/2a4432608d02f1a4a1e7b7b4cb38b45c28c89ac6"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -312,7 +271,7 @@
       "fuel_type": "Gas",
       "body_style_raw": "4D Sedan",
       "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
+      "price": 13995,
       "images": [
         "https://autodepotrussellville.com/service/picture/25003/13292A/4ca23eef3f7023d6a28af3d78b00109387f2cbbc",
         "https://autodepotrussellville.com/service/picture/25003/13292A/43287a4293877b301a095243608a0644dc167ac3",
@@ -333,6 +292,47 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
+    },
+    {
+      "vin": "5J6TF3H33CL006156",
+      "stock_number": "13441",
+      "condition": "used",
+      "year": 2012,
+      "make": "Honda",
+      "model": "Crosstour",
+      "trim": "EX",
+      "title": "2012 Honda Crosstour EX",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13441/Russellville-AL/2012-Honda-Crosstour",
+      "exterior_color": "Blue",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.4L I-4 MPI DOHC 2.4L",
+      "mileage": 161466,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D SUV FWD 4cyl",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 12995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13441/7d55d56f857f7567af8046deb254e75bde3296a7",
+        "https://autodepotrussellville.com/service/picture/25003/13441/abee88f261e02c95aa0228932836382a85a96621",
+        "https://autodepotrussellville.com/service/picture/25003/13441/4117401b89d64a5b50004b86fd30cff8b005683a",
+        "https://autodepotrussellville.com/service/picture/25003/13441/9e23466e4d43df76675b7214756b592b68c831f1",
+        "https://autodepotrussellville.com/service/picture/25003/13441/1459701ac092c7ffd64d922275821c0b05abf2cf",
+        "https://autodepotrussellville.com/service/picture/25003/13441/dbefce7aadfcf61a9d135bb7e9acd5f97108397b",
+        "https://autodepotrussellville.com/service/picture/25003/13441/3f6683d6ceb74c1bb5575e4521432509d6be2003",
+        "https://autodepotrussellville.com/service/picture/25003/13441/e67fea5d79b8eed62c8d032c316d6fce8f88bf47",
+        "https://autodepotrussellville.com/service/picture/25003/13441/2a4432608d02f1a4a1e7b7b4cb38b45c28c89ac6"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
     },
     {
       "vin": "1N4BL4BV6KC249961",
@@ -373,7 +373,7 @@
         "country": "US"
       },
       "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
+      "availability": "SOLD"
     }
   ]
 }

@@ -118,63 +118,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13441</vehicle_id>
-    <description>161,466 miles, Blue exterior, 2.4L I-4 MPI DOHC 2.4L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13441/Russellville-AL/2012-Honda-Crosstour</url>
-    <title>2012 Honda Crosstour EX</title>
-    <body_style>SUV</body_style>
-    <price>12995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Crosstour</model>
-    <year>2012</year>
-    <vin>5J6TF3H33CL006156</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>161466</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Blue</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/7d55d56f857f7567af8046deb254e75bde3296a7</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/abee88f261e02c95aa0228932836382a85a96621</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/4117401b89d64a5b50004b86fd30cff8b005683a</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/9e23466e4d43df76675b7214756b592b68c831f1</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/1459701ac092c7ffd64d922275821c0b05abf2cf</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/dbefce7aadfcf61a9d135bb7e9acd5f97108397b</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/3f6683d6ceb74c1bb5575e4521432509d6be2003</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/e67fea5d79b8eed62c8d032c316d6fce8f88bf47</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13441/2a4432608d02f1a4a1e7b7b4cb38b45c28c89ac6</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13469</vehicle_id>
     <description>164,561 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13469/Russellville-AL/2012-Honda-Odyssey</url>
@@ -417,7 +360,7 @@
     <url>https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima</url>
     <title>2016 Nissan Altima Base</title>
     <body_style>SEDAN</body_style>
-    <price>14995.00 USD</price>
+    <price>13995.00 USD</price>
     <address format="simple">
       <component name="addr1">16180 Highway 43</component>
       <component name="city">Russellville</component>
@@ -469,6 +412,63 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>13441</vehicle_id>
+    <description>161,466 miles, Blue exterior, 2.4L I-4 MPI DOHC 2.4L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13441/Russellville-AL/2012-Honda-Crosstour</url>
+    <title>2012 Honda Crosstour EX</title>
+    <body_style>SUV</body_style>
+    <price>12995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Crosstour</model>
+    <year>2012</year>
+    <vin>5J6TF3H33CL006156</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>161466</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Blue</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/7d55d56f857f7567af8046deb254e75bde3296a7</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/abee88f261e02c95aa0228932836382a85a96621</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/4117401b89d64a5b50004b86fd30cff8b005683a</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/9e23466e4d43df76675b7214756b592b68c831f1</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/1459701ac092c7ffd64d922275821c0b05abf2cf</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/dbefce7aadfcf61a9d135bb7e9acd5f97108397b</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/3f6683d6ceb74c1bb5575e4521432509d6be2003</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/e67fea5d79b8eed62c8d032c316d6fce8f88bf47</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13441/2a4432608d02f1a4a1e7b7b4cb38b45c28c89ac6</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>13464</vehicle_id>
     <description>145,512 miles, White exterior, 2.5L I-4 DI DOHC 2.5L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13464/Russellville-AL/2019-Nissan-Altima</url>
@@ -487,7 +487,7 @@
     <year>2019</year>
     <vin>1N4BL4BV6KC249961</vin>
     <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
+    <availability>SOLD</availability>
     <mileage>
       <unit>MI</unit>
       <value>145512</value>
