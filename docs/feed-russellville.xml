@@ -178,66 +178,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13456</vehicle_id>
-    <description>176,600 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13456/Russellville-AL/2012-Honda-Pilot</url>
-    <title>2012 Honda Pilot EX-L</title>
-    <body_style>SUV</body_style>
-    <price>13995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Pilot</model>
-    <year>2012</year>
-    <vin>5FNYF4H78CB054579</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>176600</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Silver</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/1d34f0d4f0b4794bc6af7b94eef741388fcbd275</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/075d7e3950f94f994809abc58f7f8504b6d47ab1</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/f000678928c282387c1aae8fe171c47d354ad09e</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/2ba3d0540e35e3d668ef4580dc444a05c1ec9378</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/f2889424e8148b0c10d56ad3dc9a458fe24eefd5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/6a00973725ea638667ff3bbffbfe67507f34014b</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/6725e23eb3f37b3f7743df785686bc87be034239</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/a6a6a0ef64307d4f75a317428b3b0efe746d3a4c</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/85fc5c4d96195a6c19b03103f5c2ae0a4825a2ea</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13456/a994bc5475515afff8e526eb1491575cf60db1b6</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13427</vehicle_id>
     <description>186,464 miles, Black exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13427/Russellville-AL/2015-Honda-Pilot</url>
@@ -523,6 +463,66 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13464/ae8e698caeee91f4749278e19ac2fefb1227748f</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13456</vehicle_id>
+    <description>176,600 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13456/Russellville-AL/2012-Honda-Pilot</url>
+    <title>2012 Honda Pilot EX-L</title>
+    <body_style>SUV</body_style>
+    <price>13995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Pilot</model>
+    <year>2012</year>
+    <vin>5FNYF4H78CB054579</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>176600</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Silver</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/1d34f0d4f0b4794bc6af7b94eef741388fcbd275</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/075d7e3950f94f994809abc58f7f8504b6d47ab1</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/f000678928c282387c1aae8fe171c47d354ad09e</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/2ba3d0540e35e3d668ef4580dc444a05c1ec9378</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/f2889424e8148b0c10d56ad3dc9a458fe24eefd5</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/6a00973725ea638667ff3bbffbfe67507f34014b</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/6725e23eb3f37b3f7743df785686bc87be034239</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/a6a6a0ef64307d4f75a317428b3b0efe746d3a4c</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/85fc5c4d96195a6c19b03103f5c2ae0a4825a2ea</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13456/a994bc5475515afff8e526eb1491575cf60db1b6</url>
     </image>
   </listing>
 </listings>
