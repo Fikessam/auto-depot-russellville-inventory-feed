@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T21:30:28.777Z",
+  "generated_at": "2026-09-30T13:22:39.347Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 10,
+  "total_vehicles": 9,
   "vehicles": [
     {
       "vin": "3GNBABFW5BS604966",
@@ -333,48 +333,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "5FNYF4H78CB054579",
-      "stock_number": "13456",
-      "condition": "used",
-      "year": 2012,
-      "make": "Honda",
-      "model": "Pilot",
-      "trim": "EX-L",
-      "title": "2012 Honda Pilot EX-L",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13456/Russellville-AL/2012-Honda-Pilot",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.5L V6 MPI SOHC VTEC 3.5",
-      "mileage": 176600,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D SUV 4WD w/Nav",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13456/1d34f0d4f0b4794bc6af7b94eef741388fcbd275",
-        "https://autodepotrussellville.com/service/picture/25003/13456/075d7e3950f94f994809abc58f7f8504b6d47ab1",
-        "https://autodepotrussellville.com/service/picture/25003/13456/f000678928c282387c1aae8fe171c47d354ad09e",
-        "https://autodepotrussellville.com/service/picture/25003/13456/2ba3d0540e35e3d668ef4580dc444a05c1ec9378",
-        "https://autodepotrussellville.com/service/picture/25003/13456/f2889424e8148b0c10d56ad3dc9a458fe24eefd5",
-        "https://autodepotrussellville.com/service/picture/25003/13456/6a00973725ea638667ff3bbffbfe67507f34014b",
-        "https://autodepotrussellville.com/service/picture/25003/13456/6725e23eb3f37b3f7743df785686bc87be034239",
-        "https://autodepotrussellville.com/service/picture/25003/13456/a6a6a0ef64307d4f75a317428b3b0efe746d3a4c",
-        "https://autodepotrussellville.com/service/picture/25003/13456/85fc5c4d96195a6c19b03103f5c2ae0a4825a2ea",
-        "https://autodepotrussellville.com/service/picture/25003/13456/a994bc5475515afff8e526eb1491575cf60db1b6"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     },
     {
       "vin": "3FA6P0LU4KR188843",
