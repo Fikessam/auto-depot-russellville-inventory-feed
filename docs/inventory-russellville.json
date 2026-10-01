@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T13:09:07.342Z",
+  "generated_at": "2026-10-01T22:27:37.314Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 9,
+  "total_vehicles": 8,
   "vehicles": [
     {
       "vin": "3GNBABFW5BS604966",
@@ -333,47 +333,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "3FA6P0LU4KR188843",
-      "stock_number": "13435",
-      "condition": "used",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Fusion",
-      "trim": "SE Hybrid",
-      "title": "2019 Ford Fusion SE Hybrid",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13435/Russellville-AL/2019-Ford-Fusion",
-      "exterior_color": "Red",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.0L I-4 SMPI DOHC Hybrid",
-      "mileage": 126974,
-      "fuel_type": "Hybrid",
-      "body_style_raw": "4D Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13435/349114e890b74fca9cd07a08c72041fb4e1129fd",
-        "https://autodepotrussellville.com/service/picture/25003/13435/960e05562a7918a274635e10359d705954128c2d",
-        "https://autodepotrussellville.com/service/picture/25003/13435/4a12f4137ee0c77b11d5fc7ba1eaa36b78d9704e",
-        "https://autodepotrussellville.com/service/picture/25003/13435/82e2b11d5bfc74bb082ca7196afd735c545d3791",
-        "https://autodepotrussellville.com/service/picture/25003/13435/66ea52f1c7dd22936fcb2d3b9f2d1e4104eb93b0",
-        "https://autodepotrussellville.com/service/picture/25003/13435/91791d975a59a832d17d7636f2fec8d39c23ca56",
-        "https://autodepotrussellville.com/service/picture/25003/13435/09c9de628710fe8d98e23e17dccc58032dcf46fb",
-        "https://autodepotrussellville.com/service/picture/25003/13435/fb37a4e0ec23589cf4f8c3a451683151cee56c27",
-        "https://autodepotrussellville.com/service/picture/25003/13435/3fb5e5e8f072b2de25c498edcc0cb847e1c9355f"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     }
   ]
 }
