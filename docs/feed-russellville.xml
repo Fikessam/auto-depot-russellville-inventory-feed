@@ -4,69 +4,12 @@
 <listings>
   <title>Auto Depot Russellville</title>
   <listing>
-    <vehicle_id>13413</vehicle_id>
-    <description>127,882 miles, Silver exterior, 2.2L I-4 SFI Flex 2.2L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13413/Russellville-AL/2011-Chevrolet-HHR</url>
-    <title>2011 Chevrolet HHR LT</title>
-    <body_style>SUV</body_style>
-    <price>10995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Chevrolet</make>
-    <model>HHR</model>
-    <year>2011</year>
-    <vin>3GNBABFW5BS604966</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>127882</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Silver</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/00861df5be8448c90b17709bf09ca47f4a07166a</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/9dbae85ef0fc7d9a6b75fb4e7670c0c34e73822d</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/192142be4a5148c2d4c5413f18d68be6ffaa7b05</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/a34ee9f5b689c75dd89a1ad32754c0a6a8fed183</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/c7d0d4e8855ad9ca7bf57a88d8f28e07d3b904cd</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/76d2f5035221f6d54b20f2bffc9c246779619f54</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/13e96c3d8ed000890858b836fafec2c940a2fb10</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/97dbf21525af54cb05293b027a392592b0b3647d</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13413/bffde2ae1e4ac21010ae44b2a5fdbad163ed079c</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13462</vehicle_id>
     <description>140,204 miles, Grey exterior, 1.8L I-4 MPI SOHC 1.8L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13462/Russellville-AL/2012-Honda-Civic</url>
     <title>2012 Honda Civic LX</title>
     <body_style>SEDAN</body_style>
-    <price>13995.00 USD</price>
+    <price>12995.00 USD</price>
     <address format="simple">
       <component name="addr1">16180 Highway 43</component>
       <component name="city">Russellville</component>
@@ -115,6 +58,63 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13481</vehicle_id>
+    <description>170,945 miles, Grey exterior, 1.3L I4 MPI SOHC Hyb iVTC — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13481/Russellville-AL/2011-Honda-Insight</url>
+    <title>2011 Honda Insight Base</title>
+    <body_style>SEDAN</body_style>
+    <price>10995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Insight</model>
+    <year>2011</year>
+    <vin>JHMZE2H37BS003180</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>170945</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Grey</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/64b216823d35bed04139010915fb8f60d7104e19</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/fd485658abf72300a873dd5788b3eaf8a5ad1e4d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/18e977dee12f10aa979cd812dcc02fcc13c1ca8d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/35acc7211c3f17b54346bac1d943ed3329ac34a2</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/33f714309533acb91a6f504cdbd4a02a106240f0</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/1187e742f0104c34e87b00d6cc3fc5006dfc2096</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/21437f0eabb35ed6e6ea3b242c2311b5fe370a61</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/2455912b0b8d4181a1d4cf112eb43844a4474e2a</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13481/42691adac6e51a1dbd768013ea09d513ac899246</url>
     </image>
   </listing>
   <listing>
@@ -355,6 +355,63 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>13413</vehicle_id>
+    <description>127,882 miles, Silver exterior, 2.2L I-4 SFI Flex 2.2L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13413/Russellville-AL/2011-Chevrolet-HHR</url>
+    <title>2011 Chevrolet HHR LT</title>
+    <body_style>SUV</body_style>
+    <price>10995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Chevrolet</make>
+    <model>HHR</model>
+    <year>2011</year>
+    <vin>3GNBABFW5BS604966</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>127882</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Silver</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/00861df5be8448c90b17709bf09ca47f4a07166a</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/9dbae85ef0fc7d9a6b75fb4e7670c0c34e73822d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/192142be4a5148c2d4c5413f18d68be6ffaa7b05</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/a34ee9f5b689c75dd89a1ad32754c0a6a8fed183</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/c7d0d4e8855ad9ca7bf57a88d8f28e07d3b904cd</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/76d2f5035221f6d54b20f2bffc9c246779619f54</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/13e96c3d8ed000890858b836fafec2c940a2fb10</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/97dbf21525af54cb05293b027a392592b0b3647d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13413/bffde2ae1e4ac21010ae44b2a5fdbad163ed079c</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>13292A</vehicle_id>
     <description>150,301 miles, Blue exterior, 2.5L I-4 SMPI DOHC CVTCS  — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima</url>
@@ -373,7 +430,7 @@
     <year>2016</year>
     <vin>1N4AL3AP4GC228963</vin>
     <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
+    <availability>SOLD</availability>
     <mileage>
       <unit>MI</unit>
       <value>150301</value>
@@ -430,7 +487,7 @@
     <year>2017</year>
     <vin>JN8AT2MT7HW147666</vin>
     <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
+    <availability>SOLD</availability>
     <mileage>
       <unit>MI</unit>
       <value>128642</value>

@@ -1,49 +1,8 @@
 {
-  "generated_at": "2026-10-02T14:35:52.876Z",
+  "generated_at": "2026-10-02T22:55:17.079Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 8,
+  "total_vehicles": 9,
   "vehicles": [
-    {
-      "vin": "3GNBABFW5BS604966",
-      "stock_number": "13413",
-      "condition": "used",
-      "year": 2011,
-      "make": "Chevrolet",
-      "model": "HHR",
-      "trim": "LT",
-      "title": "2011 Chevrolet HHR LT",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13413/Russellville-AL/2011-Chevrolet-HHR",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.2L I-4 SFI Flex 2.2L",
-      "mileage": 127882,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D SUV",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 10995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13413/00861df5be8448c90b17709bf09ca47f4a07166a",
-        "https://autodepotrussellville.com/service/picture/25003/13413/9dbae85ef0fc7d9a6b75fb4e7670c0c34e73822d",
-        "https://autodepotrussellville.com/service/picture/25003/13413/192142be4a5148c2d4c5413f18d68be6ffaa7b05",
-        "https://autodepotrussellville.com/service/picture/25003/13413/a34ee9f5b689c75dd89a1ad32754c0a6a8fed183",
-        "https://autodepotrussellville.com/service/picture/25003/13413/c7d0d4e8855ad9ca7bf57a88d8f28e07d3b904cd",
-        "https://autodepotrussellville.com/service/picture/25003/13413/76d2f5035221f6d54b20f2bffc9c246779619f54",
-        "https://autodepotrussellville.com/service/picture/25003/13413/13e96c3d8ed000890858b836fafec2c940a2fb10",
-        "https://autodepotrussellville.com/service/picture/25003/13413/97dbf21525af54cb05293b027a392592b0b3647d",
-        "https://autodepotrussellville.com/service/picture/25003/13413/bffde2ae1e4ac21010ae44b2a5fdbad163ed079c"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
     {
       "vin": "19XFB2F5XCE017631",
       "stock_number": "13462",
@@ -63,7 +22,7 @@
       "fuel_type": "Gas",
       "body_style_raw": "4D Sedan",
       "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
+      "price": 12995,
       "images": [
         "https://autodepotrussellville.com/service/picture/25003/13462/22f90025ce989f3e2ca046c53e85f0a63059cab5",
         "https://autodepotrussellville.com/service/picture/25003/13462/7cc6e58db72250704b06799086b6c917d1a6a3c5",
@@ -74,6 +33,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13462/437a3ec2dbccabde27ec26837d13a7c44453c58d",
         "https://autodepotrussellville.com/service/picture/25003/13462/0b266ba6b262b4f97e1c4823ef9abc1d70d399f8",
         "https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "JHMZE2H37BS003180",
+      "stock_number": "13481",
+      "condition": "used",
+      "year": 2011,
+      "make": "Honda",
+      "model": "Insight",
+      "trim": "Base",
+      "title": "2011 Honda Insight Base",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13481/Russellville-AL/2011-Honda-Insight",
+      "exterior_color": "Grey",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.3L I4 MPI SOHC Hyb iVTC",
+      "mileage": 170945,
+      "fuel_type": "Hybrid",
+      "body_style_raw": "4D Hatchback",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 10995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13481/64b216823d35bed04139010915fb8f60d7104e19",
+        "https://autodepotrussellville.com/service/picture/25003/13481/fd485658abf72300a873dd5788b3eaf8a5ad1e4d",
+        "https://autodepotrussellville.com/service/picture/25003/13481/18e977dee12f10aa979cd812dcc02fcc13c1ca8d",
+        "https://autodepotrussellville.com/service/picture/25003/13481/35acc7211c3f17b54346bac1d943ed3329ac34a2",
+        "https://autodepotrussellville.com/service/picture/25003/13481/33f714309533acb91a6f504cdbd4a02a106240f0",
+        "https://autodepotrussellville.com/service/picture/25003/13481/1187e742f0104c34e87b00d6cc3fc5006dfc2096",
+        "https://autodepotrussellville.com/service/picture/25003/13481/21437f0eabb35ed6e6ea3b242c2311b5fe370a61",
+        "https://autodepotrussellville.com/service/picture/25003/13481/2455912b0b8d4181a1d4cf112eb43844a4474e2a",
+        "https://autodepotrussellville.com/service/picture/25003/13481/42691adac6e51a1dbd768013ea09d513ac899246"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -253,6 +253,47 @@
       "availability": "AVAILABLE"
     },
     {
+      "vin": "3GNBABFW5BS604966",
+      "stock_number": "13413",
+      "condition": "used",
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "HHR",
+      "trim": "LT",
+      "title": "2011 Chevrolet HHR LT",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13413/Russellville-AL/2011-Chevrolet-HHR",
+      "exterior_color": "Silver",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.2L I-4 SFI Flex 2.2L",
+      "mileage": 127882,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D SUV",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 10995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13413/00861df5be8448c90b17709bf09ca47f4a07166a",
+        "https://autodepotrussellville.com/service/picture/25003/13413/9dbae85ef0fc7d9a6b75fb4e7670c0c34e73822d",
+        "https://autodepotrussellville.com/service/picture/25003/13413/192142be4a5148c2d4c5413f18d68be6ffaa7b05",
+        "https://autodepotrussellville.com/service/picture/25003/13413/a34ee9f5b689c75dd89a1ad32754c0a6a8fed183",
+        "https://autodepotrussellville.com/service/picture/25003/13413/c7d0d4e8855ad9ca7bf57a88d8f28e07d3b904cd",
+        "https://autodepotrussellville.com/service/picture/25003/13413/76d2f5035221f6d54b20f2bffc9c246779619f54",
+        "https://autodepotrussellville.com/service/picture/25003/13413/13e96c3d8ed000890858b836fafec2c940a2fb10",
+        "https://autodepotrussellville.com/service/picture/25003/13413/97dbf21525af54cb05293b027a392592b0b3647d",
+        "https://autodepotrussellville.com/service/picture/25003/13413/bffde2ae1e4ac21010ae44b2a5fdbad163ed079c"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
+    },
+    {
       "vin": "1N4AL3AP4GC228963",
       "stock_number": "13292A",
       "condition": "used",
@@ -291,7 +332,7 @@
         "country": "US"
       },
       "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
+      "availability": "SOLD"
     },
     {
       "vin": "JN8AT2MT7HW147666",
@@ -332,7 +373,7 @@
         "country": "US"
       },
       "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
+      "availability": "SOLD"
     }
   ]
 }
