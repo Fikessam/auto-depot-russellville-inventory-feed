@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:55:17.079Z",
+  "generated_at": "2026-10-03T14:21:56.107Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 9,
   "vehicles": [
@@ -294,47 +294,6 @@
       "availability": "SOLD"
     },
     {
-      "vin": "1N4AL3AP4GC228963",
-      "stock_number": "13292A",
-      "condition": "used",
-      "year": 2016,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "Base",
-      "title": "2016 Nissan Altima Base",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.5L I-4 SMPI DOHC CVTCS ",
-      "mileage": 150301,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 13995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13292A/4ca23eef3f7023d6a28af3d78b00109387f2cbbc",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/43287a4293877b301a095243608a0644dc167ac3",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/82e28a0de03bc0bea77722d9663b21dcd76c40e4",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/53f03c4b00f2cb2f6bf6d65fcd83548a8ba42625",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/5aee5fd2f9f2e37fc0c7470eb0fa20f9d98dcb46",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/fc5752cad497817280e6ffb9c4f51bd6442b34d9",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333",
-        "https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
-    },
-    {
       "vin": "JN8AT2MT7HW147666",
       "stock_number": "13477",
       "condition": "used",
@@ -364,6 +323,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13477/0b6537cc257e3e67aafefdfdf61b1f5dc2fab7c0",
         "https://autodepotrussellville.com/service/picture/25003/13477/81520d4bda0a7716f019bc6f87357f63a7f5b286",
         "https://autodepotrussellville.com/service/picture/25003/13477/0fa755c01e181d6018ecadc8f45996d8bcd828f5"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
+    },
+    {
+      "vin": "1N4AL3AP4GC228963",
+      "stock_number": "13292A",
+      "condition": "used",
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "Base",
+      "title": "2016 Nissan Altima Base",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima",
+      "exterior_color": "Blue",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.5L I-4 SMPI DOHC CVTCS ",
+      "mileage": 150301,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D Sedan",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 13995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13292A/4ca23eef3f7023d6a28af3d78b00109387f2cbbc",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/43287a4293877b301a095243608a0644dc167ac3",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/82e28a0de03bc0bea77722d9663b21dcd76c40e4",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/53f03c4b00f2cb2f6bf6d65fcd83548a8ba42625",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/5aee5fd2f9f2e37fc0c7470eb0fa20f9d98dcb46",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/fc5752cad497817280e6ffb9c4f51bd6442b34d9",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333",
+        "https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",

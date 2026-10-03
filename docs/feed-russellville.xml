@@ -412,63 +412,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13292A</vehicle_id>
-    <description>150,301 miles, Blue exterior, 2.5L I-4 SMPI DOHC CVTCS  — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima</url>
-    <title>2016 Nissan Altima Base</title>
-    <body_style>SEDAN</body_style>
-    <price>13995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Nissan</make>
-    <model>Altima</model>
-    <year>2016</year>
-    <vin>1N4AL3AP4GC228963</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>SOLD</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>150301</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Blue</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/4ca23eef3f7023d6a28af3d78b00109387f2cbbc</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/43287a4293877b301a095243608a0644dc167ac3</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/82e28a0de03bc0bea77722d9663b21dcd76c40e4</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/53f03c4b00f2cb2f6bf6d65fcd83548a8ba42625</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/5aee5fd2f9f2e37fc0c7470eb0fa20f9d98dcb46</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/fc5752cad497817280e6ffb9c4f51bd6442b34d9</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13477</vehicle_id>
     <description>128,642 miles, White exterior, 2.5L I-4 MPI DOHC 2.5L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13477/Russellville-AL/2017-Nissan-Rogue</url>
@@ -523,6 +466,63 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13477/0fa755c01e181d6018ecadc8f45996d8bcd828f5</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13292A</vehicle_id>
+    <description>150,301 miles, Blue exterior, 2.5L I-4 SMPI DOHC CVTCS  — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13292A/Russellville-AL/2016-Nissan-Altima</url>
+    <title>2016 Nissan Altima Base</title>
+    <body_style>SEDAN</body_style>
+    <price>13995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Nissan</make>
+    <model>Altima</model>
+    <year>2016</year>
+    <vin>1N4AL3AP4GC228963</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>150301</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Blue</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/4ca23eef3f7023d6a28af3d78b00109387f2cbbc</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/43287a4293877b301a095243608a0644dc167ac3</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/82e28a0de03bc0bea77722d9663b21dcd76c40e4</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/53f03c4b00f2cb2f6bf6d65fcd83548a8ba42625</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/5aee5fd2f9f2e37fc0c7470eb0fa20f9d98dcb46</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/fc5752cad497817280e6ffb9c4f51bd6442b34d9</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60</url>
     </image>
   </listing>
 </listings>
