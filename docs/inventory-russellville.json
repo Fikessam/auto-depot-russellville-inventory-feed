@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:21:56.107Z",
+  "generated_at": "2026-10-04T13:03:52.109Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 9,
   "vehicles": [
@@ -33,47 +33,6 @@
         "https://autodepotrussellville.com/service/picture/25003/13462/437a3ec2dbccabde27ec26837d13a7c44453c58d",
         "https://autodepotrussellville.com/service/picture/25003/13462/0b266ba6b262b4f97e1c4823ef9abc1d70d399f8",
         "https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
-    {
-      "vin": "JHMZE2H37BS003180",
-      "stock_number": "13481",
-      "condition": "used",
-      "year": 2011,
-      "make": "Honda",
-      "model": "Insight",
-      "trim": "Base",
-      "title": "2011 Honda Insight Base",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13481/Russellville-AL/2011-Honda-Insight",
-      "exterior_color": "Grey",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.3L I4 MPI SOHC Hyb iVTC",
-      "mileage": 170945,
-      "fuel_type": "Hybrid",
-      "body_style_raw": "4D Hatchback",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 10995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13481/64b216823d35bed04139010915fb8f60d7104e19",
-        "https://autodepotrussellville.com/service/picture/25003/13481/fd485658abf72300a873dd5788b3eaf8a5ad1e4d",
-        "https://autodepotrussellville.com/service/picture/25003/13481/18e977dee12f10aa979cd812dcc02fcc13c1ca8d",
-        "https://autodepotrussellville.com/service/picture/25003/13481/35acc7211c3f17b54346bac1d943ed3329ac34a2",
-        "https://autodepotrussellville.com/service/picture/25003/13481/33f714309533acb91a6f504cdbd4a02a106240f0",
-        "https://autodepotrussellville.com/service/picture/25003/13481/1187e742f0104c34e87b00d6cc3fc5006dfc2096",
-        "https://autodepotrussellville.com/service/picture/25003/13481/21437f0eabb35ed6e6ea3b242c2311b5fe370a61",
-        "https://autodepotrussellville.com/service/picture/25003/13481/2455912b0b8d4181a1d4cf112eb43844a4474e2a",
-        "https://autodepotrussellville.com/service/picture/25003/13481/42691adac6e51a1dbd768013ea09d513ac899246"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -364,6 +323,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13292A/4e971514d52843fc5fc02188cddf453238fb9d0d",
         "https://autodepotrussellville.com/service/picture/25003/13292A/8d68a8f71b94c02b9fa45d712b42115a02076333",
         "https://autodepotrussellville.com/service/picture/25003/13292A/43f1a185291598f0024e86db28a4d5a19672cd60"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
+    },
+    {
+      "vin": "JHMZE2H37BS003180",
+      "stock_number": "13481",
+      "condition": "used",
+      "year": 2011,
+      "make": "Honda",
+      "model": "Insight",
+      "trim": "Base",
+      "title": "2011 Honda Insight Base",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13481/Russellville-AL/2011-Honda-Insight",
+      "exterior_color": "Grey",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.3L I4 MPI SOHC Hyb iVTC",
+      "mileage": 170945,
+      "fuel_type": "Hybrid",
+      "body_style_raw": "4D Hatchback",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 10995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13481/64b216823d35bed04139010915fb8f60d7104e19",
+        "https://autodepotrussellville.com/service/picture/25003/13481/fd485658abf72300a873dd5788b3eaf8a5ad1e4d",
+        "https://autodepotrussellville.com/service/picture/25003/13481/18e977dee12f10aa979cd812dcc02fcc13c1ca8d",
+        "https://autodepotrussellville.com/service/picture/25003/13481/35acc7211c3f17b54346bac1d943ed3329ac34a2",
+        "https://autodepotrussellville.com/service/picture/25003/13481/33f714309533acb91a6f504cdbd4a02a106240f0",
+        "https://autodepotrussellville.com/service/picture/25003/13481/1187e742f0104c34e87b00d6cc3fc5006dfc2096",
+        "https://autodepotrussellville.com/service/picture/25003/13481/21437f0eabb35ed6e6ea3b242c2311b5fe370a61",
+        "https://autodepotrussellville.com/service/picture/25003/13481/2455912b0b8d4181a1d4cf112eb43844a4474e2a",
+        "https://autodepotrussellville.com/service/picture/25003/13481/42691adac6e51a1dbd768013ea09d513ac899246"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
