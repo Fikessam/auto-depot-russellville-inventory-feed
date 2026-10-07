@@ -298,12 +298,12 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>13481</vehicle_id>
-    <description>170,945 miles, Grey exterior, 1.3L I4 MPI SOHC Hyb iVTC — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13481/Russellville-AL/2011-Honda-Insight</url>
-    <title>2011 Honda Insight Base</title>
-    <body_style>SEDAN</body_style>
-    <price>10995.00 USD</price>
+    <vehicle_id>13484</vehicle_id>
+    <description>138,918 miles, White exterior, 2.4L I-4 MPI DOHC 2.4L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13484/Russellville-AL/2010-Hyundai-Santa-Fe</url>
+    <title>2010 Hyundai Santa Fe GLS</title>
+    <body_style>SUV</body_style>
+    <price>9995.00 USD</price>
     <address format="simple">
       <component name="addr1">16180 Highway 43</component>
       <component name="city">Russellville</component>
@@ -311,47 +311,47 @@
       <component name="postal_code">35653</component>
       <component name="country">US</component>
     </address>
-    <make>Honda</make>
-    <model>Insight</model>
-    <year>2011</year>
-    <vin>JHMZE2H37BS003180</vin>
+    <make>Hyundai</make>
+    <model>Santa Fe</model>
+    <year>2010</year>
+    <vin>5NMSG3AB9AH381774</vin>
     <state_of_vehicle>USED</state_of_vehicle>
-    <availability>SOLD</availability>
+    <availability>AVAILABLE</availability>
     <mileage>
       <unit>MI</unit>
-      <value>170945</value>
+      <value>138918</value>
     </mileage>
     <transmission></transmission>
     <drivetrain></drivetrain>
-    <exterior_color>Grey</exterior_color>
+    <exterior_color>White</exterior_color>
     <interior_color></interior_color>
     <vehicle_type>car_truck</vehicle_type>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/64b216823d35bed04139010915fb8f60d7104e19</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/c6f8cb5eee9a8e8960508b987fa94bee7f04f16c</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/fd485658abf72300a873dd5788b3eaf8a5ad1e4d</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/0ab23d2c885ac30964ec6f1d73853561d6a814f1</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/18e977dee12f10aa979cd812dcc02fcc13c1ca8d</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/2953c72bca17b31a86314757851107523368b74d</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/35acc7211c3f17b54346bac1d943ed3329ac34a2</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/482fe686b5025f8a2edd03fc2de94c2d2a6c083e</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/33f714309533acb91a6f504cdbd4a02a106240f0</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/d44e531acb45d02046c5c694fed07cd0765b9cfe</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/1187e742f0104c34e87b00d6cc3fc5006dfc2096</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/667a5024bf54edc4fd7668c3bcc1a76082d33d07</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/21437f0eabb35ed6e6ea3b242c2311b5fe370a61</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/07b4ea0a0fe937abfcd187e15adf20801a125c8d</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/2455912b0b8d4181a1d4cf112eb43844a4474e2a</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/b9810903637585c127bdf392b11be22d4a8b9860</url>
     </image>
     <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13481/42691adac6e51a1dbd768013ea09d513ac899246</url>
+      <url>https://autodepotrussellville.com/service/picture/25003/13484/f0c6982e69f28e98361dec5216e32c3474a9a120</url>
     </image>
   </listing>
 </listings>
