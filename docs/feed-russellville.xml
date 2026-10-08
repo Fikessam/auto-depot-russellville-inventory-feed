@@ -4,63 +4,6 @@
 <listings>
   <title>Auto Depot Russellville</title>
   <listing>
-    <vehicle_id>13462</vehicle_id>
-    <description>140,204 miles, Grey exterior, 1.8L I-4 MPI SOHC 1.8L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13462/Russellville-AL/2012-Honda-Civic</url>
-    <title>2012 Honda Civic LX</title>
-    <body_style>SEDAN</body_style>
-    <price>12995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Civic</model>
-    <year>2012</year>
-    <vin>19XFB2F5XCE017631</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>140204</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Grey</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/22f90025ce989f3e2ca046c53e85f0a63059cab5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/7cc6e58db72250704b06799086b6c917d1a6a3c5</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/087b5d98174a411857d7b7bf93a93ec1ef06d99c</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/caf9f903b7b9c95f4ce0ad748b41bd2357f220b0</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/f5df3ffd71a7b37451f384bb645072af80c00906</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/9071a06bf140cffb7a91240fe92220d794d9d409</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/437a3ec2dbccabde27ec26837d13a7c44453c58d</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/0b266ba6b262b4f97e1c4823ef9abc1d70d399f8</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>13469</vehicle_id>
     <description>164,561 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13469/Russellville-AL/2012-Honda-Odyssey</url>
@@ -175,66 +118,6 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13463/db73c713b9c9d030a90538f29d7fe101e8158c3b</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>13476</vehicle_id>
-    <description>146,033 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13476/Russellville-AL/2014-Honda-Odyssey</url>
-    <title>2014 Honda Odyssey EX-L</title>
-    <body_style>VAN</body_style>
-    <price>14995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Odyssey</model>
-    <year>2014</year>
-    <vin>5FNRL5H62EB078549</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>AVAILABLE</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>146033</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Silver</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/6d674e0e2302f03b213f757a63d175299d63a43b</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/f218fb09cc1fd8366c74d645725c2f812ffefaa9</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/72b6fd44975cfddde98211c7d5c30d5d6e3e9d3b</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/ed10f21ad8ce891eb7436aaba668d9d6775c7420</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/4801738abf2ba947c0d04153c77a41551b1740a8</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/21b21b2c18c4edc0430da9e52e5eb2900446beb9</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/02bc01778b9c877c5f19ff39a30199dec75a6a01</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/a131f883fe1b325c8ccaf18a35a7ff09771eb1a0</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/0f99301faa5191f843f9d56d259509c1e10647e6</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13476/cec5f021e78d2a7e880bb5ffe3f8f4fb6b809ba7</url>
     </image>
   </listing>
   <listing>
@@ -526,6 +409,123 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13492/78049c39718c03bfed8e81582f5bc5d3c81173f4</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13462</vehicle_id>
+    <description>140,204 miles, Grey exterior, 1.8L I-4 MPI SOHC 1.8L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13462/Russellville-AL/2012-Honda-Civic</url>
+    <title>2012 Honda Civic LX</title>
+    <body_style>SEDAN</body_style>
+    <price>12995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Civic</model>
+    <year>2012</year>
+    <vin>19XFB2F5XCE017631</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>140204</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Grey</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/22f90025ce989f3e2ca046c53e85f0a63059cab5</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/7cc6e58db72250704b06799086b6c917d1a6a3c5</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/087b5d98174a411857d7b7bf93a93ec1ef06d99c</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/caf9f903b7b9c95f4ce0ad748b41bd2357f220b0</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/f5df3ffd71a7b37451f384bb645072af80c00906</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/9071a06bf140cffb7a91240fe92220d794d9d409</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/437a3ec2dbccabde27ec26837d13a7c44453c58d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/0b266ba6b262b4f97e1c4823ef9abc1d70d399f8</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>13476</vehicle_id>
+    <description>146,033 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13476/Russellville-AL/2014-Honda-Odyssey</url>
+    <title>2014 Honda Odyssey EX-L</title>
+    <body_style>VAN</body_style>
+    <price>14995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Odyssey</model>
+    <year>2014</year>
+    <vin>5FNRL5H62EB078549</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>SOLD</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>146033</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Silver</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/6d674e0e2302f03b213f757a63d175299d63a43b</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/f218fb09cc1fd8366c74d645725c2f812ffefaa9</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/72b6fd44975cfddde98211c7d5c30d5d6e3e9d3b</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/ed10f21ad8ce891eb7436aaba668d9d6775c7420</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/4801738abf2ba947c0d04153c77a41551b1740a8</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/21b21b2c18c4edc0430da9e52e5eb2900446beb9</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/02bc01778b9c877c5f19ff39a30199dec75a6a01</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/a131f883fe1b325c8ccaf18a35a7ff09771eb1a0</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/0f99301faa5191f843f9d56d259509c1e10647e6</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13476/cec5f021e78d2a7e880bb5ffe3f8f4fb6b809ba7</url>
     </image>
   </listing>
 </listings>
