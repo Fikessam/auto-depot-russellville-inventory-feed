@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T18:35:05.353Z",
+  "generated_at": "2026-10-08T13:11:16.354Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 6,
+  "total_vehicles": 9,
   "vehicles": [
     {
       "vin": "19XFB2F5XCE017631",
@@ -87,6 +87,47 @@
       "availability": "AVAILABLE"
     },
     {
+      "vin": "5FNRL5H90DB049379",
+      "stock_number": "13463",
+      "condition": "used",
+      "year": 2013,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "Touring",
+      "title": "2013 Honda Odyssey Touring",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13463/Russellville-AL/2013-Honda-Odyssey",
+      "exterior_color": "White",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "3.5L V6 MPI SOHC VTEC 3.5",
+      "mileage": 187269,
+      "fuel_type": "Gas",
+      "body_style_raw": "Wagon",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 13995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13463/e63ee1c891c91b46187dc40172a3b72424ad6e3b",
+        "https://autodepotrussellville.com/service/picture/25003/13463/30ba1432939e0ed0a8b92872f61b039cc4b62847",
+        "https://autodepotrussellville.com/service/picture/25003/13463/dc4dc6eef675acc1635f282011d4c297a55024cf",
+        "https://autodepotrussellville.com/service/picture/25003/13463/4b62d69cf6c13d849f2ce5aa8e289330df7a4f10",
+        "https://autodepotrussellville.com/service/picture/25003/13463/47d965a41d78a7bdb95aaa73a2058daee1fa5bd2",
+        "https://autodepotrussellville.com/service/picture/25003/13463/d5cfec66067606ff2144e6ca3f57a6cd8868f400",
+        "https://autodepotrussellville.com/service/picture/25003/13463/e84df8cf3a2465a7cb192d4ca5361bf837a7f75f",
+        "https://autodepotrussellville.com/service/picture/25003/13463/abcb6a67a2c141f3d731ac8676a013e6a185558f",
+        "https://autodepotrussellville.com/service/picture/25003/13463/db73c713b9c9d030a90538f29d7fe101e8158c3b"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
       "vin": "5FNRL5H62EB078549",
       "stock_number": "13476",
       "condition": "used",
@@ -117,6 +158,48 @@
         "https://autodepotrussellville.com/service/picture/25003/13476/a131f883fe1b325c8ccaf18a35a7ff09771eb1a0",
         "https://autodepotrussellville.com/service/picture/25003/13476/0f99301faa5191f843f9d56d259509c1e10647e6",
         "https://autodepotrussellville.com/service/picture/25003/13476/cec5f021e78d2a7e880bb5ffe3f8f4fb6b809ba7"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "5FNYF3H79CB009953",
+      "stock_number": "13478",
+      "condition": "used",
+      "year": 2012,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "EX-L",
+      "title": "2012 Honda Pilot EX-L",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13478/Russellville-AL/2012-Honda-Pilot",
+      "exterior_color": "Silver",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "3.5L V6 MPI SOHC VTEC 3.5",
+      "mileage": 176234,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D SUV w/Nav",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 13995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13478/416a4b1f105fb4214d530c6101518f684a1b9844",
+        "https://autodepotrussellville.com/service/picture/25003/13478/4072cc2ed8f7c0027e6193f8d37df56ae2a75352",
+        "https://autodepotrussellville.com/service/picture/25003/13478/ad8c7109a48eb377e9d955515023cb9c2902fdb0",
+        "https://autodepotrussellville.com/service/picture/25003/13478/4093c8f2a41ae11564ba58f796b1eb1cb94910e6",
+        "https://autodepotrussellville.com/service/picture/25003/13478/ed8cef9d843cb04885f5354223b33128d0e86fce",
+        "https://autodepotrussellville.com/service/picture/25003/13478/bc3543e177ec05751a39dd7c3566126d5f76ae66",
+        "https://autodepotrussellville.com/service/picture/25003/13478/41bb854363a55ce49392c47001248585f9cef30a",
+        "https://autodepotrussellville.com/service/picture/25003/13478/00e9fc810dda196ce7fd93404967db2e1746a6d4",
+        "https://autodepotrussellville.com/service/picture/25003/13478/5bfa7cce440a95f4dceb37e0fcea284f042d558a",
+        "https://autodepotrussellville.com/service/picture/25003/13478/aa3cc31fb1814879b8083e5d3ebee273ad8bcb80"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -241,6 +324,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13484/07b4ea0a0fe937abfcd187e15adf20801a125c8d",
         "https://autodepotrussellville.com/service/picture/25003/13484/b9810903637585c127bdf392b11be22d4a8b9860",
         "https://autodepotrussellville.com/service/picture/25003/13484/f0c6982e69f28e98361dec5216e32c3474a9a120"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "2T3WFREV4EW129198",
+      "stock_number": "13492",
+      "condition": "used",
+      "year": 2014,
+      "make": "Toyota",
+      "model": "RAV4",
+      "trim": "XLE",
+      "title": "2014 Toyota RAV4 XLE",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13492/Russellville-AL/2014-Toyota-RAV4",
+      "exterior_color": "Black",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.5L I-4 DI DOHC 2.5L",
+      "mileage": 191804,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D SUV FWD",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 11995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13492/3d37ae7f8f80db93a7a74f043dd34f2198e9d9ed",
+        "https://autodepotrussellville.com/service/picture/25003/13492/34705ae61d38b56e3a03c2a2c8cc3b533ccb030c",
+        "https://autodepotrussellville.com/service/picture/25003/13492/8a42fdc2f46bca5716dcb4098daf1688a5d5cbf9",
+        "https://autodepotrussellville.com/service/picture/25003/13492/1f09f712956fb49851b470c453e46346e1de8767",
+        "https://autodepotrussellville.com/service/picture/25003/13492/27631dce8f55a8f91a0604079145a0c7d8b2295f",
+        "https://autodepotrussellville.com/service/picture/25003/13492/3dffa84226e560521c67e1c72f0a2c12b77e8096",
+        "https://autodepotrussellville.com/service/picture/25003/13492/9df682c2bcef205035f9cdb15aa456223ad84d39",
+        "https://autodepotrussellville.com/service/picture/25003/13492/57122d5d2018f4755d21b324efa01484fcb689ef",
+        "https://autodepotrussellville.com/service/picture/25003/13492/78049c39718c03bfed8e81582f5bc5d3c81173f4"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
