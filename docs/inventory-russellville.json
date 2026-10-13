@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T20:54:46.112Z",
+  "generated_at": "2026-10-13T13:27:24.597Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 10,
+  "total_vehicles": 9,
   "vehicles": [
     {
       "vin": "19XFB2F5XCE017631",
@@ -250,48 +250,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "5FNRL5H62EB078549",
-      "stock_number": "13476",
-      "condition": "used",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "trim": "EX-L",
-      "title": "2014 Honda Odyssey EX-L",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13476/Russellville-AL/2014-Honda-Odyssey",
-      "exterior_color": "Silver",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "3.5L V6 MPI SOHC VTEC 3.5",
-      "mileage": 146033,
-      "fuel_type": "Gas",
-      "body_style_raw": "Wagon w/Nav",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13476/6d674e0e2302f03b213f757a63d175299d63a43b",
-        "https://autodepotrussellville.com/service/picture/25003/13476/f218fb09cc1fd8366c74d645725c2f812ffefaa9",
-        "https://autodepotrussellville.com/service/picture/25003/13476/72b6fd44975cfddde98211c7d5c30d5d6e3e9d3b",
-        "https://autodepotrussellville.com/service/picture/25003/13476/ed10f21ad8ce891eb7436aaba668d9d6775c7420",
-        "https://autodepotrussellville.com/service/picture/25003/13476/4801738abf2ba947c0d04153c77a41551b1740a8",
-        "https://autodepotrussellville.com/service/picture/25003/13476/21b21b2c18c4edc0430da9e52e5eb2900446beb9",
-        "https://autodepotrussellville.com/service/picture/25003/13476/02bc01778b9c877c5f19ff39a30199dec75a6a01",
-        "https://autodepotrussellville.com/service/picture/25003/13476/a131f883fe1b325c8ccaf18a35a7ff09771eb1a0",
-        "https://autodepotrussellville.com/service/picture/25003/13476/0f99301faa5191f843f9d56d259509c1e10647e6",
-        "https://autodepotrussellville.com/service/picture/25003/13476/cec5f021e78d2a7e880bb5ffe3f8f4fb6b809ba7"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     },
     {
       "vin": "5FNRL5H60CB014927",
