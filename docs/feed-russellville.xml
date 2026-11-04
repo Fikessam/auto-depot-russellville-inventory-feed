@@ -4,6 +4,63 @@
 <listings>
   <title>Auto Depot Russellville</title>
   <listing>
+    <vehicle_id>13514</vehicle_id>
+    <description>159,002 miles, Red exterior, 2.0L I-4 SMPI DOHC Hybrid — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13514/Russellville-AL/2016-Ford-Fusion</url>
+    <title>2016 Ford Fusion SE Hybrid</title>
+    <body_style>SEDAN</body_style>
+    <price>14995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Ford</make>
+    <model>Fusion</model>
+    <year>2016</year>
+    <vin>3FA6P0LU7GR201527</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>159002</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>Red</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/a008aa6a0186e0d59cb4a7146a6e179133705c48</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/fe7ebe6d6f6480cb2e52a18c83b2ef66a30b787f</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/7c9f16bc5d048a7fabf559d306ddcf510ebf6b73</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/afc6e460aee92ea256fa8196217ae8b76ef50c10</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/0764b39591263a6f22196a824684ba45c1ba3bcb</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/be2d97f18dab891b2d9707efb7ce0a82e75b1dca</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/f9d77f890959da8c4e1d53d91124ded1d4b762d3</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/37c9940dc4eec4df12070b9d6cabd16f28c2453d</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13514/c1854a19db0a666e5bc870b41965c371bef963ea</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>13509</vehicle_id>
     <description>198,998 miles, Gold exterior, 2.4L I-4 DI DOHC 2.4L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13509/Russellville-AL/2013-Honda-Accord</url>
@@ -577,66 +634,6 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/5549/fc38b0479af771d860b39d9b3415cbda1e96627f</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>13478</vehicle_id>
-    <description>176,235 miles, Silver exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13478/Russellville-AL/2012-Honda-Pilot</url>
-    <title>2012 Honda Pilot EX-L</title>
-    <body_style>SUV</body_style>
-    <price>13995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Pilot</model>
-    <year>2012</year>
-    <vin>5FNYF3H79CB009953</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>SOLD</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>176235</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>Silver</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/416a4b1f105fb4214d530c6101518f684a1b9844</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/4072cc2ed8f7c0027e6193f8d37df56ae2a75352</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/ad8c7109a48eb377e9d955515023cb9c2902fdb0</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/4093c8f2a41ae11564ba58f796b1eb1cb94910e6</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/ed8cef9d843cb04885f5354223b33128d0e86fce</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/bc3543e177ec05751a39dd7c3566126d5f76ae66</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/41bb854363a55ce49392c47001248585f9cef30a</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/00e9fc810dda196ce7fd93404967db2e1746a6d4</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/5bfa7cce440a95f4dceb37e0fcea284f042d558a</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13478/aa3cc31fb1814879b8083e5d3ebee273ad8bcb80</url>
     </image>
   </listing>
   <listing>
