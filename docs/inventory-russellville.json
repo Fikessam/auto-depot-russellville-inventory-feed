@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:38:18.514Z",
+  "generated_at": "2026-11-10T14:48:34.533Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 12,
   "vehicles": [
@@ -116,6 +116,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13462/437a3ec2dbccabde27ec26837d13a7c44453c58d",
         "https://autodepotrussellville.com/service/picture/25003/13462/0b266ba6b262b4f97e1c4823ef9abc1d70d399f8",
         "https://autodepotrussellville.com/service/picture/25003/13462/bf8321f8ad6b0b9fb218a6b75fa37e4993231eea"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "2HGFC4B00HH307554",
+      "stock_number": "13511",
+      "condition": "used",
+      "year": 2017,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX-P",
+      "title": "2017 Honda Civic LX-P",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13511/Russellville-AL/2017-Honda-Civic",
+      "exterior_color": "White",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.0L I-4 MPI DOHC 2.0L",
+      "mileage": 149980,
+      "fuel_type": "Gas",
+      "body_style_raw": "2D Coupe",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 14995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13511/ab9775d90686b47300f37a0eaa36f6740354bc93",
+        "https://autodepotrussellville.com/service/picture/25003/13511/d4ee918511a5ee027b8e1d6be2bb0df4a70c9ae1",
+        "https://autodepotrussellville.com/service/picture/25003/13511/2798ebf7858507d9801c03edf6278909cb676f01",
+        "https://autodepotrussellville.com/service/picture/25003/13511/2bcd2bad20c7922035dc3fb9af41e61698e0b690",
+        "https://autodepotrussellville.com/service/picture/25003/13511/6b206ae598b0e9b83d6a79dd884316d7554e73d9",
+        "https://autodepotrussellville.com/service/picture/25003/13511/52a1d283959560312a2a0eb9553f9f6652a5656f",
+        "https://autodepotrussellville.com/service/picture/25003/13511/36c6630beb7114538e6f8aac33943cc737dd2b90",
+        "https://autodepotrussellville.com/service/picture/25003/13511/525dc9f9550f1318cc0ba2b285d0b300e4d1d602",
+        "https://autodepotrussellville.com/service/picture/25003/13511/54cfac4755ec3967076f21d728831a56c1e38b0c"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -456,47 +497,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "2HGFC4B00HH307554",
-      "stock_number": "13511",
-      "condition": "used",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX-P",
-      "title": "2017 Honda Civic LX-P",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13511/Russellville-AL/2017-Honda-Civic",
-      "exterior_color": "White",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.0L I-4 MPI DOHC 2.0L",
-      "mileage": 149980,
-      "fuel_type": "Gas",
-      "body_style_raw": "2D Coupe",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13511/ab9775d90686b47300f37a0eaa36f6740354bc93",
-        "https://autodepotrussellville.com/service/picture/25003/13511/d4ee918511a5ee027b8e1d6be2bb0df4a70c9ae1",
-        "https://autodepotrussellville.com/service/picture/25003/13511/2798ebf7858507d9801c03edf6278909cb676f01",
-        "https://autodepotrussellville.com/service/picture/25003/13511/2bcd2bad20c7922035dc3fb9af41e61698e0b690",
-        "https://autodepotrussellville.com/service/picture/25003/13511/6b206ae598b0e9b83d6a79dd884316d7554e73d9",
-        "https://autodepotrussellville.com/service/picture/25003/13511/52a1d283959560312a2a0eb9553f9f6652a5656f",
-        "https://autodepotrussellville.com/service/picture/25003/13511/36c6630beb7114538e6f8aac33943cc737dd2b90",
-        "https://autodepotrussellville.com/service/picture/25003/13511/525dc9f9550f1318cc0ba2b285d0b300e4d1d602",
-        "https://autodepotrussellville.com/service/picture/25003/13511/54cfac4755ec3967076f21d728831a56c1e38b0c"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     }
   ]
 }

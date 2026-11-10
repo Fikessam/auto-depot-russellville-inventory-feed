@@ -178,6 +178,63 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>13511</vehicle_id>
+    <description>149,980 miles, White exterior, 2.0L I-4 MPI DOHC 2.0L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
+    <url>https://autodepotrussellville.com/inventory/25003/view/13511/Russellville-AL/2017-Honda-Civic</url>
+    <title>2017 Honda Civic LX-P</title>
+    <body_style>SEDAN</body_style>
+    <price>14995.00 USD</price>
+    <address format="simple">
+      <component name="addr1">16180 Highway 43</component>
+      <component name="city">Russellville</component>
+      <component name="region">AL</component>
+      <component name="postal_code">35653</component>
+      <component name="country">US</component>
+    </address>
+    <make>Honda</make>
+    <model>Civic</model>
+    <year>2017</year>
+    <vin>2HGFC4B00HH307554</vin>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <availability>AVAILABLE</availability>
+    <mileage>
+      <unit>MI</unit>
+      <value>149980</value>
+    </mileage>
+    <transmission></transmission>
+    <drivetrain></drivetrain>
+    <exterior_color>White</exterior_color>
+    <interior_color></interior_color>
+    <vehicle_type>car_truck</vehicle_type>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/ab9775d90686b47300f37a0eaa36f6740354bc93</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/d4ee918511a5ee027b8e1d6be2bb0df4a70c9ae1</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/2798ebf7858507d9801c03edf6278909cb676f01</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/2bcd2bad20c7922035dc3fb9af41e61698e0b690</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/6b206ae598b0e9b83d6a79dd884316d7554e73d9</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/52a1d283959560312a2a0eb9553f9f6652a5656f</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/36c6630beb7114538e6f8aac33943cc737dd2b90</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/525dc9f9550f1318cc0ba2b285d0b300e4d1d602</url>
+    </image>
+    <image>
+      <url>https://autodepotrussellville.com/service/picture/25003/13511/54cfac4755ec3967076f21d728831a56c1e38b0c</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>13463</vehicle_id>
     <description>187,269 miles, White exterior, 3.5L V6 MPI SOHC VTEC 3.5 — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
     <url>https://autodepotrussellville.com/inventory/25003/view/13463/Russellville-AL/2013-Honda-Odyssey</url>
@@ -637,63 +694,6 @@
     </image>
     <image>
       <url>https://autodepotrussellville.com/service/picture/25003/13507/c77dca4716ca32823cfcf6b3c207cdc2404c1d11</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>13511</vehicle_id>
-    <description>149,980 miles, White exterior, 2.0L I-4 MPI DOHC 2.0L — WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND</description>
-    <url>https://autodepotrussellville.com/inventory/25003/view/13511/Russellville-AL/2017-Honda-Civic</url>
-    <title>2017 Honda Civic LX-P</title>
-    <body_style>SEDAN</body_style>
-    <price>14995.00 USD</price>
-    <address format="simple">
-      <component name="addr1">16180 Highway 43</component>
-      <component name="city">Russellville</component>
-      <component name="region">AL</component>
-      <component name="postal_code">35653</component>
-      <component name="country">US</component>
-    </address>
-    <make>Honda</make>
-    <model>Civic</model>
-    <year>2017</year>
-    <vin>2HGFC4B00HH307554</vin>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <availability>SOLD</availability>
-    <mileage>
-      <unit>MI</unit>
-      <value>149980</value>
-    </mileage>
-    <transmission></transmission>
-    <drivetrain></drivetrain>
-    <exterior_color>White</exterior_color>
-    <interior_color></interior_color>
-    <vehicle_type>car_truck</vehicle_type>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/ab9775d90686b47300f37a0eaa36f6740354bc93</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/d4ee918511a5ee027b8e1d6be2bb0df4a70c9ae1</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/2798ebf7858507d9801c03edf6278909cb676f01</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/2bcd2bad20c7922035dc3fb9af41e61698e0b690</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/6b206ae598b0e9b83d6a79dd884316d7554e73d9</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/52a1d283959560312a2a0eb9553f9f6652a5656f</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/36c6630beb7114538e6f8aac33943cc737dd2b90</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/525dc9f9550f1318cc0ba2b285d0b300e4d1d602</url>
-    </image>
-    <image>
-      <url>https://autodepotrussellville.com/service/picture/25003/13511/54cfac4755ec3967076f21d728831a56c1e38b0c</url>
     </image>
   </listing>
 </listings>
