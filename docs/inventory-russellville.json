@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T16:54:02.851Z",
+  "generated_at": "2026-11-11T21:21:50.915Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 12,
+  "total_vehicles": 14,
   "vehicles": [
     {
       "vin": "3FA6P0LU7GR201527",
@@ -334,6 +334,47 @@
       "availability": "AVAILABLE"
     },
     {
+      "vin": "KNDJP3A51G7332252",
+      "stock_number": "13526",
+      "condition": "used",
+      "year": 2016,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "+",
+      "title": "2016 Kia Soul +",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13526/Russellville-AL/2016-Kia-Soul",
+      "exterior_color": "White",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.0L I-4 DI DOHC 2.0L",
+      "mileage": 108104,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D Wagon",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 13995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13526/64665ebc15262edafc1012283d641d15fec6ee88",
+        "https://autodepotrussellville.com/service/picture/25003/13526/74f9e571756d7cc97af1208759fd7e7409846c4c",
+        "https://autodepotrussellville.com/service/picture/25003/13526/0e95e7229c40afd0d563787d6d2f95bdd770d22e",
+        "https://autodepotrussellville.com/service/picture/25003/13526/a8ba6a3b621320a93b1743f0a474333c5704963e",
+        "https://autodepotrussellville.com/service/picture/25003/13526/96c94267ad0bcbd26449afcec2b2351aef521b1d",
+        "https://autodepotrussellville.com/service/picture/25003/13526/2934ab236b49e702644a55d1f47ed40273d4f6a9",
+        "https://autodepotrussellville.com/service/picture/25003/13526/ea5ccea116ad8711e24cb03fff7aafd8c044d51e",
+        "https://autodepotrussellville.com/service/picture/25003/13526/ee1c867ae9b210f65b6e5e9a81159643d341d5d3",
+        "https://autodepotrussellville.com/service/picture/25003/13526/65d7f63d2e8fde796a9f374af6f1ce2338b1697a"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
       "vin": "KNDJN2A22G7377092",
       "stock_number": "5580A",
       "condition": "used",
@@ -446,6 +487,47 @@
         "https://autodepotrussellville.com/service/picture/25003/13294/1ab95996ff8dc555b2e618fdb3733b07a6c469af",
         "https://autodepotrussellville.com/service/picture/25003/13294/a9674833fcf0cf7de1db1c331f1b80a8ea290f62",
         "https://autodepotrussellville.com/service/picture/25003/13294/be1369586d12b2a2de2c5f91e81e1d0fa9588c13"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "AVAILABLE"
+    },
+    {
+      "vin": "5N1AT2MT1HC876321",
+      "stock_number": "13522",
+      "condition": "used",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "S",
+      "title": "2017 Nissan Rogue S",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13522/Russellville-AL/2017-Nissan-Rogue",
+      "exterior_color": "Blue",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "2.5L I-4 MPI DOHC 2.5L",
+      "mileage": 127149,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D SUV FWD",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 14995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13522/0bf814b69700f50cbe35c4fb581e06a5629ffb68",
+        "https://autodepotrussellville.com/service/picture/25003/13522/485d0ad69685a4f801543d8b07e5465e85826ee2",
+        "https://autodepotrussellville.com/service/picture/25003/13522/e5e6896b04b1fc9cfd75fcc2a45dea73871fdc15",
+        "https://autodepotrussellville.com/service/picture/25003/13522/680d737a53813cbe453ed124cf3323dad41ff004",
+        "https://autodepotrussellville.com/service/picture/25003/13522/b930b9afc1c39ae8d6c0bab3ca3c00f2c0921291",
+        "https://autodepotrussellville.com/service/picture/25003/13522/90dff6c2d330a98a2ec0c340d3228ed236fb8ed2",
+        "https://autodepotrussellville.com/service/picture/25003/13522/5fdce26108784724bbd36288cdb2bd9218f7145f",
+        "https://autodepotrussellville.com/service/picture/25003/13522/ce93e295990d303d18f1079043cd40e4082bf8a8",
+        "https://autodepotrussellville.com/service/picture/25003/13522/b07618174acbff129bac7f639b14153de9d040dd"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
