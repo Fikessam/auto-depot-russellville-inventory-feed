@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:48:09.729Z",
+  "generated_at": "2026-11-13T15:47:59.235Z",
   "location": "Auto Depot Russellville",
   "total_vehicles": 14,
   "vehicles": [
@@ -22,7 +22,7 @@
       "fuel_type": "Hybrid",
       "body_style_raw": "4D Sedan",
       "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
+      "price": 13995,
       "images": [
         "https://autodepotrussellville.com/service/picture/25003/13514/a008aa6a0186e0d59cb4a7146a6e179133705c48",
         "https://autodepotrussellville.com/service/picture/25003/13514/fe7ebe6d6f6480cb2e52a18c83b2ef66a30b787f",
@@ -198,47 +198,6 @@
         "https://autodepotrussellville.com/service/picture/25003/13463/e84df8cf3a2465a7cb192d4ca5361bf837a7f75f",
         "https://autodepotrussellville.com/service/picture/25003/13463/abcb6a67a2c141f3d731ac8676a013e6a185558f",
         "https://autodepotrussellville.com/service/picture/25003/13463/db73c713b9c9d030a90538f29d7fe101e8158c3b"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "AVAILABLE"
-    },
-    {
-      "vin": "5NPDH4AE3GH778737",
-      "stock_number": "13490",
-      "condition": "used",
-      "year": 2016,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "trim": "Limited",
-      "title": "2016 Hyundai Elantra Limited",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13490/Russellville-AL/2016-Hyundai-Elantra",
-      "exterior_color": "Blue",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "1.8L I-4 MPI DOHC 1.8L",
-      "mileage": 115511,
-      "fuel_type": "Gas",
-      "body_style_raw": "4D Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 11995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13490/f0c54a4f1cbb7c89e15b076d35264e251201f2d0",
-        "https://autodepotrussellville.com/service/picture/25003/13490/e2887473eb9a60a91cc1cc3e4a385d56b08ce230",
-        "https://autodepotrussellville.com/service/picture/25003/13490/17e3e32bc5de74bc79d2cef5cd789cfac4f71c8a",
-        "https://autodepotrussellville.com/service/picture/25003/13490/e683ea5d07ebb511bdfff63712eda882df38389f",
-        "https://autodepotrussellville.com/service/picture/25003/13490/1686ee117e29db66803f191592fb26a2647e92ab",
-        "https://autodepotrussellville.com/service/picture/25003/13490/7264d19ffb1ec7e1670f042df4ba3f2b18b7e8d5",
-        "https://autodepotrussellville.com/service/picture/25003/13490/3c85c2eea754ba5a81e8c63d9dc6536d3311f2ca",
-        "https://autodepotrussellville.com/service/picture/25003/13490/79cae6f849c498840ef2d5e726da06bb921e6218",
-        "https://autodepotrussellville.com/service/picture/25003/13490/81322e3cd1c3d3ff81f6779823d730c1f51b23a9"
       ],
       "dealer_address": {
         "street": "16180 Highway 43",
@@ -579,6 +538,47 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
+    },
+    {
+      "vin": "5NPDH4AE3GH778737",
+      "stock_number": "13490",
+      "condition": "used",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "Limited",
+      "title": "2016 Hyundai Elantra Limited",
+      "url": "https://autodepotrussellville.com/inventory/25003/view/13490/Russellville-AL/2016-Hyundai-Elantra",
+      "exterior_color": "Blue",
+      "interior_color": null,
+      "drivetrain": null,
+      "transmission": null,
+      "engine": "1.8L I-4 MPI DOHC 1.8L",
+      "mileage": 115511,
+      "fuel_type": "Gas",
+      "body_style_raw": "4D Sedan",
+      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
+      "price": 11995,
+      "images": [
+        "https://autodepotrussellville.com/service/picture/25003/13490/f0c54a4f1cbb7c89e15b076d35264e251201f2d0",
+        "https://autodepotrussellville.com/service/picture/25003/13490/e2887473eb9a60a91cc1cc3e4a385d56b08ce230",
+        "https://autodepotrussellville.com/service/picture/25003/13490/17e3e32bc5de74bc79d2cef5cd789cfac4f71c8a",
+        "https://autodepotrussellville.com/service/picture/25003/13490/e683ea5d07ebb511bdfff63712eda882df38389f",
+        "https://autodepotrussellville.com/service/picture/25003/13490/1686ee117e29db66803f191592fb26a2647e92ab",
+        "https://autodepotrussellville.com/service/picture/25003/13490/7264d19ffb1ec7e1670f042df4ba3f2b18b7e8d5",
+        "https://autodepotrussellville.com/service/picture/25003/13490/3c85c2eea754ba5a81e8c63d9dc6536d3311f2ca",
+        "https://autodepotrussellville.com/service/picture/25003/13490/79cae6f849c498840ef2d5e726da06bb921e6218",
+        "https://autodepotrussellville.com/service/picture/25003/13490/81322e3cd1c3d3ff81f6779823d730c1f51b23a9"
+      ],
+      "dealer_address": {
+        "street": "16180 Highway 43",
+        "city": "Russellville",
+        "state": "AL",
+        "zip": "35653",
+        "country": "US"
+      },
+      "dealer_phone": "256-331-3333",
+      "availability": "SOLD"
     }
   ]
 }
