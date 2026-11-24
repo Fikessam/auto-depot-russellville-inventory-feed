@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:01:57.546Z",
+  "generated_at": "2026-11-24T14:50:02.445Z",
   "location": "Auto Depot Russellville",
-  "total_vehicles": 15,
+  "total_vehicles": 14,
   "vehicles": [
     {
       "vin": "1HGCR2F33DA180866",
@@ -536,47 +536,6 @@
       },
       "dealer_phone": "256-331-3333",
       "availability": "AVAILABLE"
-    },
-    {
-      "vin": "JHMCR6F55HC019354",
-      "stock_number": "13517",
-      "condition": "used",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Accord",
-      "trim": "Hybrid EX-L",
-      "title": "2017 Honda Accord Hybrid EX-L",
-      "url": "https://autodepotrussellville.com/inventory/25003/view/13517/Russellville-AL/2017-Honda-Accord",
-      "exterior_color": "Grey",
-      "interior_color": null,
-      "drivetrain": null,
-      "transmission": null,
-      "engine": "2.0L I-4 DI DOHC Hybrid 2",
-      "mileage": 188801,
-      "fuel_type": "Hybrid",
-      "body_style_raw": "4D Sedan",
-      "description": "WE OFFER 12.9% FINANCING WITH THE ABILITY TO SAVE $1,000.00 OFF THE END OF YOUR CONTRACT SIMPLY BY BEING ON TIME WITH PAYMENTS AND FOR ADDED PEACE WE OFFER AUTO DEPOT PROTECTION PLUS, AN AFFORDABLE SERVICE CONTRACT DESIGNED WITH YOU IN MIND",
-      "price": 14995,
-      "images": [
-        "https://autodepotrussellville.com/service/picture/25003/13517/6f91ce99a825e7e0543f6fb688f0e39abfe8251f",
-        "https://autodepotrussellville.com/service/picture/25003/13517/a0d4b211d442641f1f999ae9ec910822422c6b39",
-        "https://autodepotrussellville.com/service/picture/25003/13517/1eca5b0325b3dd4889cac18809313e1ddcd3d2ca",
-        "https://autodepotrussellville.com/service/picture/25003/13517/0d30f1e8546e21e1184d7acba67d0dc695a793c6",
-        "https://autodepotrussellville.com/service/picture/25003/13517/76812910ad91ca95eff0ea71f1df7d0646cdec5c",
-        "https://autodepotrussellville.com/service/picture/25003/13517/68c25fa86a0e4d6544e5947f894bcc49c91fdc5a",
-        "https://autodepotrussellville.com/service/picture/25003/13517/7949f73c21ad919a3eba30322332d9ef7380660d",
-        "https://autodepotrussellville.com/service/picture/25003/13517/2e4a1c2f60891e7aa59ce6364704873e79e816cd",
-        "https://autodepotrussellville.com/service/picture/25003/13517/42d234f996b7c9c01a5271dd98e055a444dac3ab"
-      ],
-      "dealer_address": {
-        "street": "16180 Highway 43",
-        "city": "Russellville",
-        "state": "AL",
-        "zip": "35653",
-        "country": "US"
-      },
-      "dealer_phone": "256-331-3333",
-      "availability": "SOLD"
     },
     {
       "vin": "KNDMB5C15H6284781",
